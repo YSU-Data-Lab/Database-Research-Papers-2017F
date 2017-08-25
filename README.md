@@ -205,6 +205,6 @@ Proc. SIGMOD Conference, 2000, 261-272.
 Proc. VLDB, 2002, 215-226. 
 </p>
 
-<small>© 2005, Joseph
+<small>Some source from © 2005, Joseph
 M. Hellerstein.</small>
 <a href="http://redbook.cs.berkeley.edu/bib4.html">http://redbook.cs.berkeley.edu/bib4.html</a>
