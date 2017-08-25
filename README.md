@@ -207,4 +207,4 @@ Proc. VLDB, 2002, 215-226.
 
 <small>© 2005, Joseph
 M. Hellerstein.</small>
-href="http://redbook.cs.berkeley.edu/bib4.html"
+<a href="http://redbook.cs.berkeley.edu/bib4.html">http://redbook.cs.berkeley.edu/bib4.html</a>
