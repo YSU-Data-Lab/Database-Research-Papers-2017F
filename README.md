@@ -204,3 +204,7 @@ Proc. SIGMOD Conference, 2000, 261-272.
 <b><a href="http://www.informatik.uni-trier.de/~ley/db/conf/vldb/CarneyCCCLSSTZ02.html">Monitoring Streams - A New Class of Data Management Applications.</a></b>. 
 Proc. VLDB, 2002, 215-226. 
 </p>
+
+<small>© 2005, Joseph
+M. Hellerstein.</small>
+href="http://redbook.cs.berkeley.edu/bib4.html"
