@@ -6,7 +6,7 @@
 <b>What Goes Around Comes Around</b>. 
 
 </p>
-<p id=""> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Joseph%20M%20Hellerstein">Joseph M. Hellerstein</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Michael%20Stonebraker">Michael Stonebraker</a>. 
+<p id=""> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Joseph%20M%20Hellerstein">Joseph M. Hellerstein</a> <a href="/Papers/Data%20Models%20and%20DBMS%20Architecture/Anatomy%20of%20a%20Database%20system.pdf">Michael Stonebraker</a>. https://github.com/YSU-Data-Lab/Database-Research-Papers-201
 <b>Anatomy of a Database System</b>. 
 
 
