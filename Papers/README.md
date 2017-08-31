@@ -22,7 +22,7 @@ Proc. SIGMOD Conference, 1979, 23-34.
 
 </p>
 <p id="journals/tods/Shapiro86"> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Leonard%20D%20Shapiro">Leonard D. Shapiro</a>. 
-<b><a href="Papers/Query%20Processing/Join%20Processing%20in%20Database%20Systems%20with%20Large%20Main%20Memories.pdf">Join Processing in Database Systems with Large Main Memories.</a></b>. 
+<b><a href="/Papers/Query%20Processing/Join%20Processing%20in%20Database%20Systems%20with%20Large%20Main%20Memories.pdf">Join Processing in Database Systems with Large Main Memories.</a></b>. 
 ACM Trans. Database Syst., 11(3), 1986, 239-264.
 </p>
 
