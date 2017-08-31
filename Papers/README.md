@@ -4,8 +4,8 @@
 
 <h2><small>Data Models and DBMS Architecture</small></h2>
 <div class="bibtexml-output">
-<p id=""> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Michael%20Stonebraker">Michael Stonebraker</a> <a href="/Papers/Data%20Models%20and%20DBMS%20Architecture/What%20Goes%20Around%20Comes%20Around.pdf">Joseph M. Hellerstein</a>. 
-<b>What Goes Around Comes Around</b>. 
+<p id=""> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Michael%20Stonebraker">Michael Stonebraker</a> <a href="">Joseph M. Hellerstein</a> 
+<b><a href="/Papers/Data%20Models%20and%20DBMS%20Architecture/Anatomy%20of%20a%20Database%20system.pdf">What Goes Around Comes Around</a></b>. 
 
 </p>
 <p id=""> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Joseph%20M%20Hellerstein">Joseph M. Hellerstein</a> <a href="">Michael Stonebraker</a>. 
