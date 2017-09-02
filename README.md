@@ -3,6 +3,7 @@
 
 
 <h2><small>Data Models and DBMS Architecture</small></h2>
+
 <div class="bibtexml-output">
 <p id=""> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Michael%20Stonebraker">Michael Stonebraker</a> <a href="">Joseph M. Hellerstein</a> 
 <b><a href="/Papers/Data%20Models%20and%20DBMS%20Architecture/What%20Goes%20Around%20Comes%20Around.pdf">What Goes Around Comes Around</a></b>. 
@@ -223,7 +224,7 @@ Proc. ICDE, 2002, 529-.
 <p id=""> <b><a href="/Papers/Web%20Services%20and%20Databases/Combining_Systems_and_Databases_A_Search_Engine_Re.pdf">Combining Systems and Databases: A Search Engine Retrospective</a></b>. 
 </p>
 
-</p>
+
 <p id="journals/cn/BrinP98"> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Sergey%20Brin">Sergey Brin</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Lawrence%20Page">Lawrence Page</a>. 
 <b><a href="/Papers/Web%20Services%20and%20Databases/The%20anatomy%20of%20a%20large-scale%20hypertextual%20web%20search%20engine.pdf">The Anatomy of a Large-Scale Hypertextual Web Search Engine.</a></b>. 
 Computer Networks, 30(1-7), 1998, 107-117. 
