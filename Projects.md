@@ -1,17 +1,16 @@
-#### Project Suggestions
+### Project Suggestions
 Each of the following is a large project, which can be a semester-long project done
 by a group of students. The difficulty of the project can be adjusted easily by
 adding or deleting features.
-
-Project 9.1 Pick your favorite interactive Web site, such as Bebo, Blogger, Face-
+  
+  
+#### Project 9.1  
+Pick your favorite interactive Web site, such as Bebo, Blogger, Face-
 book, Flickr, Last.FM, Twitter, Wikipedia; these are just a few examples,
-
 there are many more. Most of these sites manage a large amount of data,
 and use databases to store and process the data. Implement a subset of the
-
 functionality of the Web site you picked. Clearly, implementing even a sig-
 nificant subset of the features of such a site is well beyond a course project,
-
 Project Suggestions 423
 but it is possible to find a set of features that is interesting to implement, yet
 small enough for a course project.
@@ -21,12 +20,12 @@ least initially, since it takes time to build such intefaces, and then add more
 features to your interfaces, as time permits. Make use of Web application
 development frameworks, or Javascript libraries available on the Web, such
 as the Yahoo User Interface library, to speed up your development.
-
-Project 9.2 Create a “mashup” which uses Web services such as Google or Ya-
+  
+  
+Project 9.2  
+Create a “mashup” which uses Web services such as Google or Ya-
 hoo maps APIs to create an interactive Web sites. For example, the map APIs
-
 provide a way to display a map on the Web page, with other information
-
 overlayed on the maps. You could implement a restaurant recommenda-
 tion system, with users contributing information about restaurants such as
 
@@ -45,6 +44,7 @@ signment submission and grading functionality, including mechanisms for
 students and teachers/teaching-assistants to discuss grading of a particular
 assignment. You could also provide polls and other mechanisms for getting
 feedback.
+
 Project 9.4 Consider the E-R schema of Practice Exercise 7.3 (Chapter 7), which
 represents information about teams in a league. Design and implement a
 Web-based system to enter, update, and view the data.
