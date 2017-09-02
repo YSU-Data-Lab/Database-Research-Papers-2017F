@@ -56,22 +56,22 @@ VLDB J., 5(1), 1996, 48-63.
 <h2><small>Data Storage and Access Methods</small></h2>
 
 <p id="conf/sigmod/BeckmannKSS90"> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Norbert%20Beckmann">Norbert Beckmann</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=HansPeter%20Kriegel">Hans-Peter Kriegel</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Ralf%20Schneider">Ralf Schneider</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Bernhard%20Seeger">Bernhard Seeger</a>. 
-<b><a href="http://www.informatik.uni-trier.de/~ley/db/conf/sigmod/BeckmannKSS90.html">The R*-Tree: An Efficient and Robust Access Method for Points and Rectangles.</a></b>. 
+<b><a href="/Papers/Data%20Storage%20and%20Access%20Methods/The%20R_tree%20an%20efficient%20and%20robust%20access%20method%20for%20points%20and%20rectangles.pdf">The R*-Tree: An Efficient and Robust Access Method for Points and Rectangles.</a></b>. 
 Proc. SIGMOD Conference, 1990, 322-331.
 </p>
 
 <p id="journals/cacm/Stonebraker81"> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Michael%20Stonebraker">Michael Stonebraker</a>. 
-<b><a href="http://www.informatik.uni-trier.de/~ley/db/journals/cacm/Stonebraker81.html">Operating System Support for Database Management.</a></b>. 
+<b><a href="/Papers/Data%20Storage%20and%20Access%20Methods/Operating%20system%20support%20for%20database%20management.pdf">Operating System Support for Database Management.</a></b>. 
 Commun. ACM, 24(7), 1981, 412-418. 
 </p>
 
 <p id="journals/sigmod/GrayG97"> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Jim%20Gray">Jim Gray</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Goetz%20Graefe">Goetz Graefe</a>. 
-<b><a href="http://www.informatik.uni-trier.de/~ley/db/journals/sigmod/GrayG97.html">The Five-Minute Rule Ten Years Later, and Other Computer Storage Rules of Thumb.</a></b>. 
+<b><a href="/Papers/Data%20Storage%20and%20Access%20Methods/The%20five-minute%20rule%20ten%20years%20later%2C%20and%20other%20computer%20storage%20rules%20of%20thumb.pdf">The Five-Minute Rule Ten Years Later, and Other Computer Storage Rules of Thumb.</a></b>. 
 SIGMOD Record, 26(4), 1997, 63-68. 
 </p>
 
 <p id="conf/sigmod/PattersonGK88"> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=David%20A%20Patterson">David A. Patterson</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Garth%20A%20Gibson">Garth A. Gibson</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Randy%20H%20Katz">Randy H. Katz</a>. 
-<b><a href="http://www.informatik.uni-trier.de/~ley/db/conf/sigmod/PattersonGK88.html">A Case for Redundant Arrays of Inexpensive Disks (RAID).</a></b>. 
+<b><a href="/Papers/Data%20Storage%20and%20Access%20Methods/A%20Case%20for%20Redundant%20Arrays%20of%20Inexpensive%20Disks%20(RAID)%20.pdf">A Case for Redundant Arrays of Inexpensive Disks (RAID).</a></b>. 
 Proc. SIGMOD Conference, 1988, 109-116. 
 </p>
 
@@ -80,37 +80,37 @@ Proc. SIGMOD Conference, 1988, 109-116.
 <h2><small>Transaction Management</small></h2>
 
 <p id=""> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Jim%20Gray">Jim Gray</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Raymond%20A%20Lorie">Raymond A. Lorie</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Gianfranco%20R%20Putzolu">Gianfranco R. Putzolu</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Irving%20L%20Traiger">Irving L. Traiger</a>. 
-<b><a href="http://www.informatik.uni-trier.de/~ley/db/.html">Granularity of Locks and Degrees of Consistency in a Shared Data Base.</a></b>. 
+<b><a href="/Papers/Transaction%20Management/Granularity%20of%20locks%20and%20degrees%20of%20consistency%20in%20a%20shared%20data%20base.pdf">Granularity of Locks and Degrees of Consistency in a Shared Data Base.</a></b>. 
 IBM, September, 1975. 
 </p>
 
 <p id="conf/vldb/KungR79"> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=H%20T%20Kung">H. T. Kung</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=John%20T%20Robinson">John T. Robinson</a>. 
-<b><a href="http://www.informatik.uni-trier.de/~ley/db/conf/vldb/KungR79.html">On Optimistic Methods for Concurrency Control.</a></b>. 
+<b><a href="/Papers/Transaction%20Management/On%20optimistic%20methods%20for%20concurrency%20control.pdf">On Optimistic Methods for Concurrency Control.</a></b>. 
 Proc. VLDB, 1979, 351. 
 </p>
 
 <p id="journals/tods/AgrawalCL87"> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Rakesh%20Agrawal">Rakesh Agrawal</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Michael%20J%20Carey">Michael J. Carey</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Miron%20Livny">Miron Livny</a>. 
-<b><a href="http://www.informatik.uni-trier.de/~ley/db/journals/tods/AgrawalCL87.html">Concurrency Control Performance Modeling: Alternatives and Implications.</a></b>. 
+<b><a href="/Papers/Transaction%20Management/Concurrency%20control%20performance%20modeling_%20alternatives%20and%20implications.pdf">Concurrency Control Performance Modeling: Alternatives and Implications.</a></b>. 
 ACM Trans. Database Syst., 12(4), 1987, 609-654. 
 </p>
 
 <p id="journals/tods/LehmanY81"> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Philip%20L%20Lehman">Philip L. Lehman</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=S%20Bing%20Yao">S. Bing Yao</a>. 
-<b><a href="http://www.informatik.uni-trier.de/~ley/db/journals/tods/LehmanY81.html">Efficient Locking for Concurrent Operations on  B-Trees.</a></b>. 
+<b><a href="/Papers/Transaction%20Management/Efficient%20locking%20for%20concurrent%20operations%20on%20B-trees.pdf">Efficient Locking for Concurrent Operations on  B-Trees.</a></b>. 
 ACM Trans. Database Syst., 6(4), 1981, 650-670. 
 </p>
 
 <p id="journals/tods/MohanHLPS92"> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=C%20Mohan">C. Mohan</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Donald%20J%20Haderle">Donald J. Haderle</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Bruce%20G%20Lindsay">Bruce G. Lindsay</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Hamid%20Pirahesh">Hamid Pirahesh</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Peter%20M%20Schwarz">Peter M. Schwarz</a>. 
-<b><a href="http://www.informatik.uni-trier.de/~ley/db/journals/tods/MohanHLPS92.html">ARIES: A Transaction Recovery Method Supporting Fine-Granularity Locking and Partial Rollbacks Using Write-Ahead Logging.</a></b>. 
+<b><a href="/Papers/Transaction%20Management/ARIES_%20a%20transaction%20recovery%20method%20supporting%20fine_granularity%20locking%20and%20partial%20rollbacks%20using%20write_ahead%20logging.pdf">ARIES: A Transaction Recovery Method Supporting Fine-Granularity Locking and Partial Rollbacks Using Write-Ahead Logging.</a></b>. 
 ACM Trans. Database Syst., 17(1), 1992, 94-162. 
 </p>
 
 <p id="journals/tods/MohanLO86"> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=C%20Mohan">C. Mohan</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Bruce%20G%20Lindsay">Bruce G. Lindsay</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Ron%20Obermarck">Ron Obermarck</a>. 
-<b><a href="http://www.informatik.uni-trier.de/~ley/db/journals/tods/MohanLO86.html">Transaction Management in the  R* Distributed Database Management System.</a></b>. 
+<b><a href="/Papers/Transaction%20Management/Transaction%20management%20in%20the%20R_%20distributed%20database%20management%20system.pdf">Transaction Management in the  R* Distributed Database Management System.</a></b>. 
 ACM Trans. Database Syst., 11(4), 1986, 378-396. 
 </p>
 
 <p id="conf/sigmod/GrayHOS96"> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Jim%20Gray">Jim Gray</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Pat%20Helland">Pat Helland</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Patrick%20E%20O'Neil">Patrick E. O'Neil</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Dennis%20Shasha">Dennis Shasha</a>. 
-<b><a href="http://www.informatik.uni-trier.de/~ley/db/conf/sigmod/GrayHOS96.html">The Dangers of Replication and a Solution.</a></b>. 
+<b><a href="/Papers/Transaction%20Management/The%20dangers%20of%20replication%20and%20a%20solution.pdf">The Dangers of Replication and a Solution.</a></b>. 
 Proc. SIGMOD Conference, 1996, 173-182. 
 </p>
 
