@@ -1,4 +1,4 @@
-####Project Suggestions
+#### Project Suggestions
 Each of the following is a large project, which can be a semester-long project done
 by a group of students. The difficulty of the project can be adjusted easily by
 adding or deleting features.
