@@ -219,8 +219,8 @@ Proc. ICDE, 2002, 529-.
 
 <h2><small>Web Services and Databases</small></h2>
 
-<p id=""> <a href="/Papers/Web%20Services%20and%20Databases/Combining_Systems_and_Databases_A_Search_Engine_Re.pdf">Combining Systems and Databases: A Search Engine
-  Retrospective</a></b>. 
+<p id=""> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Eric%20A%20Brewer">Eric A. Brewer</a>. 
+<p id=""> <b><a href="/Papers/Web%20Services%20and%20Databases/Combining_Systems_and_Databases_A_Search_Engine_Re.pdf">Combining Systems and Databases: A Search Engine Retrospective</a></b>. 
 
 </p>
 <p id="journals/cn/BrinP98"> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Sergey%20Brin">Sergey Brin</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Lawrence%20Page">Lawrence Page</a>. 
