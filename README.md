@@ -119,17 +119,17 @@ Proc. SIGMOD Conference, 1996, 173-182.
 <h2><small>Extensible Systems</small></h2>
 
 <p id="conf/icde/Stonebraker86"> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Michael%20Stonebraker">Michael Stonebraker</a>. 
-<b><a href="http://www.informatik.uni-trier.de/~ley/db/conf/icde/Stonebraker86.html">Inclusion of New Types in Relational Data Base Systems.</a></b>. 
+<b><a href="/Papers/Extensible%20Systems/Inclusion-of-new-types-in-relational-database-systems.pdf">Inclusion of New Types in Relational Data Base Systems.</a></b>. 
 Proc. ICDE, 1986, 262-269. 
 </p>
 
 <p id="conf/vldb/HellersteinNP95"> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Joseph%20M%20Hellerstein">Joseph M. Hellerstein</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Jeffrey%20F%20Naughton">Jeffrey F. Naughton</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Avi%20Pfeffer">Avi Pfeffer</a>. 
-<b><a href="http://www.informatik.uni-trier.de/~ley/db/conf/vldb/HellersteinNP95.html">Generalized Search Trees for Database Systems.</a></b>. 
+<b><a href="/Papers/Extensible%20Systems/Generalized%20search%20trees%20for%20database%20systems.pdf">Generalized Search Trees for Database Systems.</a></b>. 
 Proc. VLDB, 1995, 562-573. 
 </p>
 
 <p id="conf/sigmod/Lohman88"> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Guy%20M%20Lohman">Guy M. Lohman</a>. 
-<b><a href="http://www.informatik.uni-trier.de/~ley/db/conf/sigmod/Lohman88.html">Grammar-like Functional Rules for Representing Query Optimization Alternatives.</a></b>. 
+<b><a href="/Papers/Extensible%20Systems/Grammar-like%20functional%20rules%20for%20representing%20query%20optimization%20alternatives.pdf">Grammar-like Functional Rules for Representing Query Optimization Alternatives.</a></b>. 
 Proc. SIGMOD Conference, 1988, 18-27. 
 </p>
 
@@ -138,17 +138,17 @@ Proc. SIGMOD Conference, 1988, 18-27.
 <h2><small>Database Evolution</small></h2>
 
 <p id="conf/sigmod/ChaudhuriN98"> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Surajit%20Chaudhuri">Surajit Chaudhuri</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Vivek%20R%20Narasayya">Vivek R. Narasayya</a>. 
-<b><a href="http://www.informatik.uni-trier.de/~ley/db/conf/sigmod/ChaudhuriN98.html">AutoAdmin 'What-if' Index Analysis Utility.</a></b>. 
+<b><a href="/Papers/Database%20Evolution/AutoAdmin%20_what_if_%20index%20analysis%20utility.pdf">AutoAdmin 'What-if' Index Analysis Utility.</a></b>. 
 Proc. SIGMOD Conference, 1998, 367-378. 
 </p>
 
 <p id="conf/cidr/Bernstein03"> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Philip%20A%20Bernstein">Philip A. Bernstein</a>. 
-<b><a href="http://www.informatik.uni-trier.de/~ley/db/conf/cidr/Bernstein03.html">Applying Model Management to Classical Meta Data Problems.</a></b>. 
+<b><a href="/Papers/Database%20Evolution/Applying%20Model%20Management%20to%20Classical%20Meta%20Data%20Problems.pdf">Applying Model Management to Classical Meta Data Problems.</a></b>. 
 Proc. CIDR, 2003. 
 </p>
 
 <p id="conf/sigmod/MohanN92"> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=C%20Mohan">C. Mohan</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Inderpal%20Narang">Inderpal Narang</a>. 
-<b><a href="http://www.informatik.uni-trier.de/~ley/db/conf/sigmod/MohanN92.html">Algorithms for Creating Indexes for Very Large Tables Without Quiescing Updates.</a></b>. 
+<b><a href="/Papers/Database%20Evolution/Algorithms%20for%20creating%20indexes%20for%20very%20large%20tables%20without%20quiescing%20updates.pdf">Algorithms for Creating Indexes for Very Large Tables Without Quiescing Updates.</a></b>. 
 Proc. SIGMOD Conference, 1992, 361-370. 
 </p>
 
@@ -157,37 +157,37 @@ Proc. SIGMOD Conference, 1992, 361-370.
 <h2><small>Data Warehousing</small></h2>
 
 <p id="journals/sigmod/ChaudhuriD97"> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Surajit%20Chaudhuri">Surajit Chaudhuri</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Umeshwar%20Dayal">Umeshwar Dayal</a>. 
-<b><a href="http://www.informatik.uni-trier.de/~ley/db/journals/sigmod/ChaudhuriD97.html">An Overview of Data Warehousing and OLAP Technology.</a></b>. 
+<b><a href="/Papers/Data%20Warehousing/An%20overview%20of%20data%20warehousing%20and%20OLAP%20technology.pdf">An Overview of Data Warehousing and OLAP Technology.</a></b>. 
 SIGMOD Record, 26(1), 1997, 65-74. 
 </p>
 
 <p id="conf/sigmod/ONeilQ97"> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Patrick%20E%20O'Neil">Patrick E. O'Neil</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Dallan%20Quass">Dallan Quass</a>. 
-<b><a href="http://www.informatik.uni-trier.de/~ley/db/conf/sigmod/ONeilQ97.html">Improved Query Performance with Variant Indexes.</a></b>. 
+<b><a href="/Papers/Data%20Warehousing/Improved%20query%20performance%20with%20variant%20indexes.pdf">Improved Query Performance with Variant Indexes.</a></b>. 
 Proc. SIGMOD Conference, 1997, 38-49. 
 </p>
 
 <p id="journals/datamine/GrayCBLRVPP97"> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Jim%20Gray">Jim Gray</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Surajit%20Chaudhuri">Surajit Chaudhuri</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Adam%20Bosworth">Adam Bosworth</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Andrew%20Layman">Andrew Layman</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Don%20Reichart">Don Reichart</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Murali%20Venkatrao">Murali Venkatrao</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Frank%20Pellow">Frank Pellow</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Hamid%20Pirahesh">Hamid Pirahesh</a>. 
-<b><a href="http://www.informatik.uni-trier.de/~ley/db/journals/datamine/GrayCBLRVPP97.html">Data Cube: A Relational Aggregation Operator Generalizing Group-by, Cross-Tab, and Sub Totals.</a></b>. 
+<b><a href="/Papers/Data%20Warehousing/Data%20cube_%20A%20relational%20aggregation%20operator%20generalizing%20group-by%20cross-tab%20and%20sub-totals.pdf">Data Cube: A Relational Aggregation Operator Generalizing Group-by, Cross-Tab, and Sub Totals.</a></b>. 
 Data Min. Knowl. Discov., 1(1), 1997, 29-53. 
 </p>
 
 <p id="conf/sigmod/ZhaoDN97"> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Yihong%20Zhao">Yihong Zhao</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Prasad%20Deshpande">Prasad Deshpande</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Jeffrey%20F%20Naughton">Jeffrey F. Naughton</a>. 
-<b><a href="http://www.informatik.uni-trier.de/~ley/db/conf/sigmod/ZhaoDN97.html">An Array-Based Algorithm for Simultaneous Multidimensional Aggregates.</a></b>. 
+<b><a href="/Papers/Data%20Warehousing/An%20array-based%20algorithm%20for%20simultaneous%20multidimensional%20aggregates.pdf">An Array-Based Algorithm for Simultaneous Multidimensional Aggregates.</a></b>. 
 Proc. SIGMOD Conference, 1997, 159-170. 
 </p>
 
 <p id="conf/vldb/CeriW90"> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Stefano%20Ceri">Stefano Ceri</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Jennifer%20Widom">Jennifer Widom</a>. 
-<b><a href="http://www.informatik.uni-trier.de/~ley/db/conf/vldb/CeriW90.html">Deriving Production Rules for Constraint Maintainance.</a></b>. 
+<b><a href="/Papers/Data%20Warehousing/Deriving%20production%20rules%20for%20constraint%20maintenance.pdf">Deriving Production Rules for Constraint Maintainance.</a></b>. 
 Proc. VLDB, 1990, 566-577. 
 </p>
 
 <p id="journals/datamine/HellersteinAR00"> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Joseph%20M%20Hellerstein">Joseph M. Hellerstein</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Ron%20Avnur">Ron Avnur</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Vijayshankar%20Raman">Vijayshankar Raman</a>. 
-<b><a href="http://www.informatik.uni-trier.de/~ley/db/journals/datamine/HellersteinAR00.html">Informix under CONTROL: Online Query Processing.</a></b>. 
+<b><a href="/Papers/Data%20Warehousing/Informix%20under%20control_%20Online%20query%20processing.pdf">Informix under CONTROL: Online Query Processing.</a></b>. 
 Data Min. Knowl. Discov., 4(4), 2000, 281-314. 
 </p>
 
 <p id="conf/sigmod/KotidisR99"> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Yannis%20Kotidis">Yannis Kotidis</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Nick%20Roussopoulos">Nick Roussopoulos</a>. 
-<b><a href="http://www.informatik.uni-trier.de/~ley/db/conf/sigmod/KotidisR99.html">DynaMat: A Dynamic View Management System for Data Warehouses.</a></b>. 
+<b><a href="/Papers/Data%20Warehousing/DynaMat_%20a%20dynamic%20view%20management%20system%20for%20data%20warehouses.pdf">DynaMat: A Dynamic View Management System for Data Warehouses.</a></b>. 
 Proc. SIGMOD Conference, 1999, 371-382. 
 </p>
 
@@ -196,22 +196,22 @@ Proc. SIGMOD Conference, 1999, 371-382.
 <h2><small>Data Mining</small></h2>
 
 <p id="conf/sigmod/ZhangRL96"> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Tian%20Zhang">Tian Zhang</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Raghu%20Ramakrishnan">Raghu Ramakrishnan</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Miron%20Livny">Miron Livny</a>. 
-<b><a href="http://www.informatik.uni-trier.de/~ley/db/conf/sigmod/ZhangRL96.html">BIRCH: An Efficient Data Clustering Method for Very Large Databases.</a></b>. 
+<b><a href="/Papers/Data%20Mining/BIRCH_%20an%20efficient%20data%20clustering%20method%20for%20very%20large%20databases.pdf">BIRCH: An Efficient Data Clustering Method for Very Large Databases.</a></b>. 
 Proc. SIGMOD Conference, 1996, 103-114. 
 </p>
 
 <p id="conf/vldb/ShaferAM96"> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=John%20C%20Shafer">John C. Shafer</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Rakesh%20Agrawal">Rakesh Agrawal</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Manish%20Mehta">Manish Mehta</a>. 
-<b><a href="http://www.informatik.uni-trier.de/~ley/db/conf/vldb/ShaferAM96.html">SPRINT: A Scalable Parallel Classifier for Data Mining</a></b>. 
+<b><a href="/Papers/Data%20Mining/SPRINT_%20A%20scalable%20parallel%20classi%20er%20for%20data%20mining.pdf">SPRINT: A Scalable Parallel Classifier for Data Mining</a></b>. 
 Proc. VLDB, 1996, 544-555. 
 </p>
 
 <p id="conf/vldb/AgrawalS94"> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Rakesh%20Agrawal">Rakesh Agrawal</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Ramakrishnan%20Srikant">Ramakrishnan Srikant</a>. 
-<b><a href="http://www.informatik.uni-trier.de/~ley/db/conf/vldb/AgrawalS94.html">Fast Algorithms for Mining Association Rules in Large Databases.</a></b>. 
+<b><a href="/Papers/Data%20Mining/Fast%20algorithms%20for%20mining%20association%20rules.pdf">Fast Algorithms for Mining Association Rules in Large Databases.</a></b>. 
 Proc. VLDB, 1994, 487-499. 
 </p>
 
 <p id="conf/icde/ChaudhuriNS02"> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Surajit%20Chaudhuri">Surajit Chaudhuri</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Vivek%20R%20Narasayya">Vivek R. Narasayya</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Sunita%20Sarawagi">Sunita Sarawagi</a>. 
-<b><a href="http://www.informatik.uni-trier.de/~ley/db/conf/icde/ChaudhuriNS02.html">Efficient Evaluation of Queries with Mining Predicates.</a></b>. 
+<b><a href="/Papers/Data%20Mining/Efficient%20evaluation%20of%20queries%20with%20mining%20predicates.pdf">Efficient Evaluation of Queries with Mining Predicates.</a></b>. 
 Proc. ICDE, 2002, 529-. 
 </p>
 
@@ -219,37 +219,36 @@ Proc. ICDE, 2002, 529-.
 
 <h2><small>Web Services and Databases</small></h2>
 
-<p id=""> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Eric%20A%20Brewer">Eric A. Brewer</a>. 
-<b><a href="http://www.informatik.uni-trier.de/~ley/db/.html">Combining Systems and Databases: A Search Engine
+<p id=""> <a href="/Papers/Web%20Services%20and%20Databases/Combining_Systems_and_Databases_A_Search_Engine_Re.pdf">Combining Systems and Databases: A Search Engine
   Retrospective</a></b>. 
 
 </p>
 <p id="journals/cn/BrinP98"> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Sergey%20Brin">Sergey Brin</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Lawrence%20Page">Lawrence Page</a>. 
-<b><a href="http://www.informatik.uni-trier.de/~ley/db/journals/cn/BrinP98.html">The Anatomy of a Large-Scale Hypertextual Web Search Engine.</a></b>. 
+<b><a href="/Papers/Web%20Services%20and%20Databases/The%20anatomy%20of%20a%20large-scale%20hypertextual%20web%20search%20engine.pdf">The Anatomy of a Large-Scale Hypertextual Web Search Engine.</a></b>. 
 Computer Networks, 30(1-7), 1998, 107-117. 
 </p>
 
 <p id="conf/cidr/SizovTSWGBZ03"> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Sergej%20Sizov">Sergej Sizov</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Martin%20Theobald">Martin Theobald</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Stefan%20Siersdorfer">Stefan Siersdorfer</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Gerhard%20Weikum">Gerhard Weikum</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Jens%20Graupmann">Jens Graupmann</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Michael%20Biwer">Michael Biwer</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Patrick%20Zimmer">Patrick Zimmer</a>. 
-<b><a href="http://www.informatik.uni-trier.de/~ley/db/conf/cidr/SizovTSWGBZ03.html">The BINGO! System for Information Portal Generation and Expert Web Search.</a></b>. 
+<b><a href="/Papers/Web%20Services%20and%20Databases/The%20BINGO!%20System%20for%20Information%20Portal%20Generation%20and%20Expert%20Web%20.pdf">The BINGO! System for Information Portal Generation and Expert Web Search.</a></b>. 
 Proc. CIDR, 2003. 
 </p>
 
 <p id=""> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Dean%20Jacobs">Dean Jacobs</a>. 
-<b><a href="http://www.informatik.uni-trier.de/~ley/db/.html">Data Management in Application Servers</a></b>. 
+<b><a href="/Papers/Web%20Services%20and%20Databases/Data%20Management%20in%20Application.pdf">Data Management in Application Servers</a></b>. 
 </p>
 
 <p id="conf/icdt/Abiteboul97"> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Serge%20Abiteboul">Serge Abiteboul</a>. 
-<b><a href="http://www.informatik.uni-trier.de/~ley/db/conf/icdt/Abiteboul97.html">Querying Semi-Structured Data.</a></b>. 
+<b><a href="/Papers/Web%20Services%20and%20Databases/Querying%20semi_structured%20data.pdf">Querying Semi-Structured Data.</a></b>. 
 Proc. ICDT, 1997, 1-18. 
 </p>
 
 <p id="conf/vldb/GoldmanW97"> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Roy%20Goldman">Roy Goldman</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Jennifer%20Widom">Jennifer Widom</a>. 
-<b><a href="http://www.informatik.uni-trier.de/~ley/db/conf/vldb/GoldmanW97.html">DataGuides: Enabling Query Formulation and Optimization in Semistructured Databases.</a></b>. 
+<b><a href="/Papers/Web%20Services%20and%20Databases/Dataguides_%20Enabling%20query%20formulation%20and%20optimization%20in%20semistructured%20databases.pdf">DataGuides: Enabling Query Formulation and Optimization in Semistructured Databases.</a></b>. 
 Proc. VLDB, 1997, 436-445. 
 </p>
 
 <p id="conf/sigmod/ChenJDTW00"> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Jianjun%20Chen">Jianjun Chen</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=David%20J%20DeWitt">David J. DeWitt</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Feng%20Tian">Feng Tian</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Yuan%20Wang">Yuan Wang</a>. 
-<b><a href="http://www.informatik.uni-trier.de/~ley/db/conf/sigmod/ChenJDTW00.html">NiagaraCQ: A Scalable Continuous Query System for Internet Databases.</a></b>. 
+<b><a href="/Papers/Web%20Services%20and%20Databases/NiagaraCQ_%20A%20scalable%20continuous%20query%20system%20for%20internet%20databases.pdf">NiagaraCQ: A Scalable Continuous Query System for Internet Databases.</a></b>. 
 Proc. SIGMOD Conference, 2000, 379-390. 
 </p>
 
@@ -258,22 +257,22 @@ Proc. SIGMOD Conference, 2000, 379-390.
 <h2><small>Stream-Based Data Management</small></h2>
 
 <p id="conf/icde/HansonCHKNPPV99"> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Eric%20N%20Hanson">Eric N. Hanson</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Chris%20Carnes">Chris Carnes</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Lan%20Huang">Lan Huang</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Mohan%20Konyala">Mohan Konyala</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Lloyd%20Noronha">Lloyd Noronha</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Sashi%20Parthasarathy">Sashi Parthasarathy</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=J%20B%20Park">J. B. Park</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Albert%20Vernon">Albert Vernon</a>. 
-<b><a href="http://www.informatik.uni-trier.de/~ley/db/conf/icde/HansonCHKNPPV99.html">Scalable Trigger Processing.</a></b>. 
+<b><a href="/Papers/Stream%20Bases%20Data%20Management/Scalable%20Trigger%20Processing.pdf">Scalable Trigger Processing.</a></b>. 
 Proc. ICDE, 1999, 266-275. 
 </p>
 
 <p id="conf/vldb/SeshadriLR96"> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Praveen%20Seshadri">Praveen Seshadri</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Miron%20Livny">Miron Livny</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Raghu%20Ramakrishnan">Raghu Ramakrishnan</a>. 
-<b><a href="http://www.informatik.uni-trier.de/~ley/db/conf/vldb/SeshadriLR96.html">The Design and Implementation of a Sequence Database System.</a></b>. 
+<b><a href="/Papers/Stream%20Bases%20Data%20Management/SEQ%20%20Design%20and%20Implementation%20of%20a%20Sequence%20Database%20System.pdf">The Design and Implementation of a Sequence Database System.</a></b>. 
 Proc. VLDB, 1996, 99-110. 
 </p>
 
 <p id="conf/sigmod/HellersteinA00"> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Ron%20Avnur">Ron Avnur</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Joseph%20M%20Hellerstein">Joseph M. Hellerstein</a>. 
-<b><a href="http://www.informatik.uni-trier.de/~ley/db/conf/sigmod/HellersteinA00.html">Eddies: Continuously Adaptive Query Processing</a></b>. 
+<b><a href="/Papers/Stream%20Bases%20Data%20Management/Eddies_%20Continuously%20adaptive%20query%20processing.pdf">Eddies: Continuously Adaptive Query Processing</a></b>. 
 Proc. SIGMOD Conference, 2000, 261-272. 
 </p>
 
 <p id="conf/vldb/CarneyCCCLSSTZ02"> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Donald%20Carney">Donald Carney</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Ugur%20%C3%87etintemel">Ugur Çetintemel</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Mitch%20Cherniack">Mitch Cherniack</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Christian%20Convey">Christian Convey</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Sangdon%20Lee">Sangdon Lee</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Greg%20Seidman">Greg Seidman</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Michael%20Stonebraker">Michael Stonebraker</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Nesime%20Tatbul">Nesime Tatbul</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Stanley%20B%20Zdonik">Stanley B. Zdonik</a>. 
-<b><a href="http://www.informatik.uni-trier.de/~ley/db/conf/vldb/CarneyCCCLSSTZ02.html">Monitoring Streams - A New Class of Data Management Applications.</a></b>. 
+<b><a href="/Papers/Stream%20Bases%20Data%20Management/Monitoring%20Streams%20-%20A%20New%20Class%20of%20Data%20Management%20Applications.pdf">Monitoring Streams - A New Class of Data Management Applications.</a></b>. 
 Proc. VLDB, 2002, 215-226. 
 </p> 
  
