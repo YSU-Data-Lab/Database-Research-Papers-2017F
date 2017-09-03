@@ -1,6 +1,6 @@
-# Datebase-Research-Papers-2017F
+# Database Research Paper Reading List
 
-
+This includes a list of classic papers of database research in different fields. The original papers are included in the book: *Readings in Database Systems* Fourth Edition, MIT Press, January 2005, ISBN: 9780262693141.
 
 <h2><small>Data Models and DBMS Architecture</small></h2>
 
