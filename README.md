@@ -13,9 +13,9 @@ This includes a list of classic papers of database research in different fields.
 
 ## Query Processing
 
-1. Patricia G. Selinger, Morton M. Astrahan, Donald D. Chamberlin, Donald D. Chamberlin, Raymond A. Lorie, Thomas G. Price, Proc. SIGMOD Conference, 1979, 23-34.(/Papers/Query%20Processing/Access%20Path%20Selection%20in%20a%20Relational%20Database%20Management%20System.pdf)
+1. Patricia G. Selinger, Morton M. Astrahan, Donald D. Chamberlin, Donald D. Chamberlin, Raymond A. Lorie, Thomas G. Price, Proc. SIGMOD Conference, 1979, 23-34.[Access Path Selection in Relation Database Management System](/Papers/Query%20Processing/Access%20Path%20Selection%20in%20a%20Relational%20Database%20Management%20System.pdf)
 
-2. Leonard D. Shapiro,11(3), 1986, 239-264. (/Papers/Query%20Processing/Join%20Processing%20in%20Database%20Systems%20with%20Large%20Main%20Memories.pdf)
+2. Leonard D. Shapiro,11(3), 1986, 239-264.[Join Processing in Datebase Systems with Large Main Memories] (/Papers/Query%20Processing/Join%20Processing%20in%20Database%20Systems%20with%20Large%20Main%20Memories.pdf)
 
 <p id="journals/cacm/DeWittG92"> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=David%20J%20DeWitt">David J. DeWitt</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Jim%20Gray">Jim Gray</a>. 
 <b><a href="/Papers/Query%20Processing/Parallel%20Database%20systems_The%20future%20of%20high%20performance%20database%20systems.pdf">Parallel Database Systems: The Future of High Performance Database Systems.</a></b>. 
