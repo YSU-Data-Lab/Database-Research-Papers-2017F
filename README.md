@@ -19,7 +19,7 @@ This includes a list of classic papers of database research in different fields.
 
 3. David J. DeWitt, Jim Gray, Commun. ACM, 35(6), 1992, 85-98.[Parallel Database Systems: The Future of High Performance Database Systems.](/Papers/Query%20Processing/Parallel%20Database%20systems_The%20future%20of%20high%20performance%20database%20systems.pdf)
 
-4.Goetz Graefe, Proc. SIGMOD Conference, 1990, 102-111. [Encapsulation of Parallelism in the Volcano Query Processing System](/Papers/Query%20Processing/Encapsulation%20of%20Parallelism%20in%20the%20Volcano%20Query%20Processing%20Syst.pdf)
+4. Goetz Graefe, Proc. SIGMOD Conference, 1990, 102-111. [Encapsulation of Parallelism in the Volcano Query Processing System](/Papers/Query%20Processing/Encapsulation%20of%20Parallelism%20in%20the%20Volcano%20Query%20Processing%20Syst.pdf)
 
 5. Chris Nyberg, Tom Barclay, Zarka Cvetanovic,Jim Gray, David B. Lomet, VLDB J., 4(4), 1995, 603-627. [AlphaSort: A Cache-Sensitive Parallel External Sort](/Papers/Query%20Processing/AlphaSort_A%20Cache%20Sensitive%20Parallel%20External%20Sort.pdf)
 
