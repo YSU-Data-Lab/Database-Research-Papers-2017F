@@ -2,16 +2,12 @@
 
 This includes a list of classic papers of database research in different fields. The original papers are included in the book: *Readings in Database Systems* Fourth Edition, MIT Press, January 2005, ISBN: 9780262693141.
 
-<h2><small>Data Models and DBMS Architecture</small></h2>
+<!-- <h2><small>Data Models and DBMS Architecture</small></h2> -->
 
-<div class="bibtexml-output">
-<p id=""> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Michael%20Stonebraker">Michael Stonebraker</a> <a href="">Joseph M. Hellerstein</a> 
-<b><a href="/Papers/Data%20Models%20and%20DBMS%20Architecture/What%20Goes%20Around%20Comes%20Around.pdf">What Goes Around Comes Around</a></b>. 
+## Data Models and DBMS Architecture
 
-</p>
-<p id=""> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Joseph%20M%20Hellerstein">Joseph M. Hellerstein</a> <a href="">Michael Stonebraker</a>. 
-<b><a href="/Papers/Data%20Models%20and%20DBMS%20Architecture/Anatomy%20of%20a%20Database%20system.pdf">Anatomy of a Database System</a></b>. 
-</p>
+1. Michael Stonebraker, Joseph M. Hellerstein, [What Goes Around Comes Around](/Papers/Data%20Models%20and%20DBMS%20Architecture/What%20Goes%20Around%20Comes%20Around.pdf)
+1. Joseph M. Hellerstein, Michael Stonebraker, [Anatomy of a Database System](/Papers/Data%20Models%20and%20DBMS%20Architecture/Anatomy%20of%20a%20Database%20system.pdf)
 
 
 
