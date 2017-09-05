@@ -7,21 +7,15 @@ This includes a list of classic papers of database research in different fields.
 ## Data Models and DBMS Architecture
 
 1. Michael Stonebraker, Joseph M. Hellerstein, [What Goes Around Comes Around](/Papers/Data%20Models%20and%20DBMS%20Architecture/What%20Goes%20Around%20Comes%20Around.pdf)
-1. Joseph M. Hellerstein, Michael Stonebraker, [Anatomy of a Database System](/Papers/Data%20Models%20and%20DBMS%20Architecture/Anatomy%20of%20a%20Database%20system.pdf)
+2. Joseph M. Hellerstein, Michael Stonebraker, [Anatomy of a Database System](/Papers/Data%20Models%20and%20DBMS%20Architecture/Anatomy%20of%20a%20Database%20system.pdf)
 
 
 
-<h2><small>Query Processing</small></h2>
+## Query Processing
 
-<p id="conf/sigmod/SelingerACLP79"> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Patricia%20G%20Selinger">Patricia G. Selinger</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Morton%20M%20Astrahan">Morton M. Astrahan</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Donald%20D%20Chamberlin">Donald D. Chamberlin</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Raymond%20A%20Lorie">Raymond A. Lorie</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Thomas%20G%20Price">Thomas G. Price</a>. 
-<b><a href="/Papers/Query%20Processing/Access%20Path%20Selection%20in%20a%20Relational%20Database%20Management%20System.pdf">Access Path Selection in a Relational Database Management System.</a></b>. 
-Proc. SIGMOD Conference, 1979, 23-34.
+1. Patricia G. Selinger, Morton M. Astrahan, Donald D. Chamberlin, Donald D. Chamberlin, Raymond A. Lorie, Thomas G. Price, Proc. SIGMOD Conference, 1979, 23-34.(/Papers/Query%20Processing/Access%20Path%20Selection%20in%20a%20Relational%20Database%20Management%20System.pdf)
 
-</p>
-<p id="journals/tods/Shapiro86"> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Leonard%20D%20Shapiro">Leonard D. Shapiro</a>. 
-<b><a href="/Papers/Query%20Processing/Join%20Processing%20in%20Database%20Systems%20with%20Large%20Main%20Memories.pdf">Join Processing in Database Systems with Large Main Memories.</a></b>. 
-ACM Trans. Database Syst., 11(3), 1986, 239-264.
-</p>
+2. Leonard D. Shapiro,11(3), 1986, 239-264. (/Papers/Query%20Processing/Join%20Processing%20in%20Database%20Systems%20with%20Large%20Main%20Memories.pdf)
 
 <p id="journals/cacm/DeWittG92"> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=David%20J%20DeWitt">David J. DeWitt</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Jim%20Gray">Jim Gray</a>. 
 <b><a href="/Papers/Query%20Processing/Parallel%20Database%20systems_The%20future%20of%20high%20performance%20database%20systems.pdf">Parallel Database Systems: The Future of High Performance Database Systems.</a></b>. 
