@@ -15,36 +15,21 @@ This includes a list of classic papers of database research in different fields.
 
 1. Patricia G. Selinger, Morton M. Astrahan, Donald D. Chamberlin, Donald D. Chamberlin, Raymond A. Lorie, Thomas G. Price, Proc. SIGMOD Conference, 1979, 23-34.[Access Path Selection in Relation Database Management System](/Papers/Query%20Processing/Access%20Path%20Selection%20in%20a%20Relational%20Database%20Management%20System.pdf)
 
-2. Leonard D. Shapiro,11(3), 1986, 239-264.[Join Processing in Datebase Systems with Large Main Memories] (/Papers/Query%20Processing/Join%20Processing%20in%20Database%20Systems%20with%20Large%20Main%20Memories.pdf)
+2. Leonard D. Shapiro,11(3), 1986, 239-264.[Join Processing in Datebase Systems with Large Main Memories](/Papers/Query%20Processing/Join%20Processing%20in%20Database%20Systems%20with%20Large%20Main%20Memories.pdf)
 
-<p id="journals/cacm/DeWittG92"> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=David%20J%20DeWitt">David J. DeWitt</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Jim%20Gray">Jim Gray</a>. 
-<b><a href="/Papers/Query%20Processing/Parallel%20Database%20systems_The%20future%20of%20high%20performance%20database%20systems.pdf">Parallel Database Systems: The Future of High Performance Database Systems.</a></b>. 
-Commun. ACM, 35(6), 1992, 85-98.
-</p>
+3. David J. DeWitt, Jim Gray, Commun. ACM, 35(6), 1992, 85-98.[Parallel Database Systems: The Future of High Performance Database Systems.](/Papers/Query%20Processing/Parallel%20Database%20systems_The%20future%20of%20high%20performance%20database%20systems.pdf)
 
-<p id="conf/sigmod/Graefe90"> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Goetz%20Graefe">Goetz Graefe</a>. 
-<b><a href="/Papers/Query%20Processing/Encapsulation%20of%20Parallelism%20in%20the%20Volcano%20Query%20Processing%20Syst.pdf">Encapsulation of Parallelism in the Volcano Query Processing System.</a></b>. 
-Proc. SIGMOD Conference, 1990, 102-111. 
-</p>
+4.Goetz Graefe, Proc. SIGMOD Conference, 1990, 102-111. [Encapsulation of Parallelism in the Volcano Query Processing System](/Papers/Query%20Processing/Encapsulation%20of%20Parallelism%20in%20the%20Volcano%20Query%20Processing%20Syst.pdf)
 
-<p id="journals/vldb/NybergBCGL95"> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Chris%20Nyberg">Chris Nyberg</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Tom%20Barclay">Tom Barclay</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Zarka%20Cvetanovic">Zarka Cvetanovic</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Jim%20Gray">Jim Gray</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=David%20B%20Lomet">David B. Lomet</a>. 
-<b><a href="/Papers/Query%20Processing/AlphaSort_A%20Cache%20Sensitive%20Parallel%20External%20Sort.pdf">AlphaSort: A Cache-Sensitive Parallel External Sort</a></b>. 
-VLDB J., 4(4), 1995, 603-627. 
-</p>
+5. Chris Nyberg, Tom Barclay, Zarka Cvetanovic,Jim Gray, David B. Lomet, VLDB J., 4(4), 1995, 603-627. [AlphaSort: A Cache-Sensitive Parallel External Sort](/Papers/Query%20Processing/AlphaSort_A%20Cache%20Sensitive%20Parallel%20External%20Sort.pdf)
 
-<p id="conf/vldb/MackertL86"> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Lothar%20F%20Mackert">Lothar F. Mackert</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Guy%20M%20Lohman">Guy M. Lohman</a>. 
-<b><a href="/Papers/Query%20Processing/R%20Optimizer%20Validation%20and%20Performance%20Evaluation%20for%20Local%20Queries.pdf">R* Optimizer Validation and Performance Evaluation for Distributed Queries.</a></b>. 
-Proc. VLDB, 1986, 149-159. 
-</p>
+6. Lothar F. Mackert, Guy M. Lohman, Proc. VLDB, 1986, 149-159. [R* Optimizer Validation and Performance Evaluation for Distributed Queries](/Papers/Query%20Processing/R%20Optimizer%20Validation%20and%20Performance%20Evaluation%20for%20Local%20Queries.pdf)
 
-<p id="journals/vldb/StonebrakerALPSSSY96"> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Michael%20Stonebraker">Michael Stonebraker</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Paul%20M%20Aoki">Paul M. Aoki</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Witold%20Litwin">Witold Litwin</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Avi%20Pfeffer">Avi Pfeffer</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Adam%20Sah">Adam Sah</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Jeff%20Sidell">Jeff Sidell</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Carl%20Staelin">Carl Staelin</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Andrew%20Yu">Andrew Yu</a>. 
-<b><a href="/Papers/Query%20Processing/Mariposa_A%20wide-Area%20distributed%20database%20system.pdf">Mariposa: A Wide-Area Distributed Database System</a></b>. 
-VLDB J., 5(1), 1996, 48-63. 
-</p>
+7. Michael Stonebraker, Paul M. Aoki, Witold Litwin, Carl Staelin, Adam Sah, Andrew Yu, VLDB J., 5(1), 1996, 48-63. [Mariposa: A Wide-Area Distributed Database System](/Papers/Query%20Processing/Mariposa_A%20wide-Area%20distributed%20database%20system.pdf)
 
 
 
-<h2><small>Data Storage and Access Methods</small></h2>
+## Data Storage and Access Methods
 
 <p id="conf/sigmod/BeckmannKSS90"> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Norbert%20Beckmann">Norbert Beckmann</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=HansPeter%20Kriegel">Hans-Peter Kriegel</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Ralf%20Schneider">Ralf Schneider</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Bernhard%20Seeger">Bernhard Seeger</a>. 
 <b><a href="/Papers/Data%20Storage%20and%20Access%20Methods/The%20R_tree%20an%20efficient%20and%20robust%20access%20method%20for%20points%20and%20rectangles.pdf">The R*-Tree: An Efficient and Robust Access Method for Points and Rectangles.</a></b>. 
