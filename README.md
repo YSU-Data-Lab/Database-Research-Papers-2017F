@@ -143,65 +143,43 @@ This includes a list of classic papers of database research in different fields.
 
 ## Web Services and Databases
 
-<p id=""> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Eric%20A%20Brewer">Eric A. Brewer</a>. 
-<p id=""> <b><a href="/Papers/Web%20Services%20and%20Databases/Combining_Systems_and_Databases_A_Search_Engine_Re.pdf">Combining Systems and Databases: A Search Engine Retrospective</a></b>. 
-</p>
+1. Eric A. Brewer.  
+[Combining Systems and Databases: A Search Engine Retrospective](/Papers/Web%20Services%20and%20Databases/Combining_Systems_and_Databases_A_Search_Engine_Re.pdf)
+
+2. Lawrence Page, Sergey Brin, Computer Networks, 30(1-7), 1998, 107-117.  
+[The Anatomy of a Large-Scale Hypertextual Web Search Engine](/Papers/Web%20Services%20and%20Databases/The%20anatomy%20of%20a%20large-scale%20hypertextual%20web%20search%20engine.pdf)
+
+3. Sergej Sizov, Martin Theobald, Stefan Siersdorfer, Gerhard Weikum, Jens Graupmann, Michael Biwer, Patrick Zimmer, Proc. CIDR, 2003.  
+[The BINGO! System for Information Portal Generation and Expert Web Search](/Papers/Web%20Services%20and%20Databases/The%20BINGO!%20System%20for%20Information%20Portal%20Generation%20and%20Expert%20Web%20.pdf)
+
+4. Dean Jacobs.  
+[Data Management in Application Servers](/Papers/Web%20Services%20and%20Databases/Data%20Management%20in%20Application.pdf)
+
+5. Serge Abiteboul, Proc. ICDT, 1997, 1-18.  
+[Querying Semi-Structured Data](/Papers/Web%20Services%20and%20Databases/Querying%20semi_structured%20data.pdf)
+
+6. Roy Goldman, Jennifer Widom, Proc. VLDB, 1997, 436-445.  
+[DataGuides: Enabling Query Formulation and Optimization in Semistructured Databases](/Papers/Web%20Services%20and%20Databases/Dataguides_%20Enabling%20query%20formulation%20and%20optimization%20in%20semistructured%20databases.pdf)
+
+7. Jianjun Chen, David J. DeWitt, Feng Tian, Yuan Wang, Proc. SIGMOD Conference, 2000, 379-390.  
+[NiagaraCQ: A Scalable Continuous Query System for Internet Databases](/Papers/Web%20Services%20and%20Databases/NiagaraCQ_%20A%20scalable%20continuous%20query%20system%20for%20internet%20databases.pdf)
 
 
-<p id="journals/cn/BrinP98"> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Sergey%20Brin">Sergey Brin</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Lawrence%20Page">Lawrence Page</a>. 
-<b><a href="/Papers/Web%20Services%20and%20Databases/The%20anatomy%20of%20a%20large-scale%20hypertextual%20web%20search%20engine.pdf">The Anatomy of a Large-Scale Hypertextual Web Search Engine.</a></b>. 
-Computer Networks, 30(1-7), 1998, 107-117. 
-</p>
+## Stream-Based Data Management
 
-<p id="conf/cidr/SizovTSWGBZ03"> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Sergej%20Sizov">Sergej Sizov</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Martin%20Theobald">Martin Theobald</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Stefan%20Siersdorfer">Stefan Siersdorfer</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Gerhard%20Weikum">Gerhard Weikum</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Jens%20Graupmann">Jens Graupmann</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Michael%20Biwer">Michael Biwer</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Patrick%20Zimmer">Patrick Zimmer</a>. 
-<b><a href="/Papers/Web%20Services%20and%20Databases/The%20BINGO!%20System%20for%20Information%20Portal%20Generation%20and%20Expert%20Web%20.pdf">The BINGO! System for Information Portal Generation and Expert Web Search.</a></b>. 
-Proc. CIDR, 2003. 
-</p>
+1. Eric N. Hanson, Chris Carnes, Lan Huang, Mohan Konyala, Lloyd Noronha, Sashi Parthasarathy, J. B. Park, Albert Vernon, Proc. ICDE, 1999, 266-275.  
+[Scalable Trigger Processing](/Papers/Stream%20Bases%20Data%20Management/Scalable%20Trigger%20Processing.pdf)
 
-<p id=""> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Dean%20Jacobs">Dean Jacobs</a>. 
-<b><a href="/Papers/Web%20Services%20and%20Databases/Data%20Management%20in%20Application.pdf">Data Management in Application Servers</a></b>. 
-</p>
+2. Praveen Seshadri, Miron Livny, Raghu Ramakrishnan, Proc. VLDB, 1996, 99-110.  
+[The Design and Implementation of a Sequence Database System](/Papers/Stream%20Bases%20Data%20Management/SEQ%20%20Design%20and%20Implementation%20of%20a%20Sequence%20Database%20System.pdf)
 
-<p id="conf/icdt/Abiteboul97"> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Serge%20Abiteboul">Serge Abiteboul</a>. 
-<b><a href="/Papers/Web%20Services%20and%20Databases/Querying%20semi_structured%20data.pdf">Querying Semi-Structured Data.</a></b>. 
-Proc. ICDT, 1997, 1-18. 
-</p>
+3. Ron Avnur, Joseph M. Hellerstein, SIGMOD Conference, 2000, 261-272.  
+[Eddies: Continuously Adaptive Query Processing](/Papers/Stream%20Bases%20Data%20Management/Eddies_%20Continuously%20adaptive%20query%20processing.pdf)
 
-<p id="conf/vldb/GoldmanW97"> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Roy%20Goldman">Roy Goldman</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Jennifer%20Widom">Jennifer Widom</a>. 
-<b><a href="/Papers/Web%20Services%20and%20Databases/Dataguides_%20Enabling%20query%20formulation%20and%20optimization%20in%20semistructured%20databases.pdf">DataGuides: Enabling Query Formulation and Optimization in Semistructured Databases.</a></b>. 
-Proc. VLDB, 1997, 436-445. 
-</p>
-
-<p id="conf/sigmod/ChenJDTW00"> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Jianjun%20Chen">Jianjun Chen</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=David%20J%20DeWitt">David J. DeWitt</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Feng%20Tian">Feng Tian</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Yuan%20Wang">Yuan Wang</a>. 
-<b><a href="/Papers/Web%20Services%20and%20Databases/NiagaraCQ_%20A%20scalable%20continuous%20query%20system%20for%20internet%20databases.pdf">NiagaraCQ: A Scalable Continuous Query System for Internet Databases.</a></b>. 
-Proc. SIGMOD Conference, 2000, 379-390. 
-</p>
+4. Donald Carney, Ugur Çetintemel, Mitch Cherniack, Christian Convey, Sangdon Lee, Greg Seidman, Michael Stonebraker, Nesime Tatbul, Stanley B. Zdonik, Proc. VLDB, 2002, 215-226.  
+[Monitoring Streams - A New Class of Data Management Applications](/Papers/Stream%20Bases%20Data%20Management/Monitoring%20Streams%20-%20A%20New%20Class%20of%20Data%20Management%20Applications.pdf)
 
 
-
-<h2><small>Stream-Based Data Management</small></h2>
-
-<p id="conf/icde/HansonCHKNPPV99"> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Eric%20N%20Hanson">Eric N. Hanson</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Chris%20Carnes">Chris Carnes</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Lan%20Huang">Lan Huang</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Mohan%20Konyala">Mohan Konyala</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Lloyd%20Noronha">Lloyd Noronha</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Sashi%20Parthasarathy">Sashi Parthasarathy</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=J%20B%20Park">J. B. Park</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Albert%20Vernon">Albert Vernon</a>. 
-<b><a href="/Papers/Stream%20Bases%20Data%20Management/Scalable%20Trigger%20Processing.pdf">Scalable Trigger Processing.</a></b>. 
-Proc. ICDE, 1999, 266-275. 
-</p>
-
-<p id="conf/vldb/SeshadriLR96"> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Praveen%20Seshadri">Praveen Seshadri</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Miron%20Livny">Miron Livny</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Raghu%20Ramakrishnan">Raghu Ramakrishnan</a>. 
-<b><a href="/Papers/Stream%20Bases%20Data%20Management/SEQ%20%20Design%20and%20Implementation%20of%20a%20Sequence%20Database%20System.pdf">The Design and Implementation of a Sequence Database System.</a></b>. 
-Proc. VLDB, 1996, 99-110. 
-</p>
-
-<p id="conf/sigmod/HellersteinA00"> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Ron%20Avnur">Ron Avnur</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Joseph%20M%20Hellerstein">Joseph M. Hellerstein</a>. 
-<b><a href="/Papers/Stream%20Bases%20Data%20Management/Eddies_%20Continuously%20adaptive%20query%20processing.pdf">Eddies: Continuously Adaptive Query Processing</a></b>. 
-Proc. SIGMOD Conference, 2000, 261-272. 
-</p>
-
-<p id="conf/vldb/CarneyCCCLSSTZ02"> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Donald%20Carney">Donald Carney</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Ugur%20%C3%87etintemel">Ugur Çetintemel</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Mitch%20Cherniack">Mitch Cherniack</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Christian%20Convey">Christian Convey</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Sangdon%20Lee">Sangdon Lee</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Greg%20Seidman">Greg Seidman</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Michael%20Stonebraker">Michael Stonebraker</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Nesime%20Tatbul">Nesime Tatbul</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Stanley%20B%20Zdonik">Stanley B. Zdonik</a>. 
-<b><a href="/Papers/Stream%20Bases%20Data%20Management/Monitoring%20Streams%20-%20A%20New%20Class%20of%20Data%20Management%20Applications.pdf">Monitoring Streams - A New Class of Data Management Applications.</a></b>. 
-Proc. VLDB, 2002, 215-226. 
-</p> 
- 
- 
 
 <h2></h2>
 <small>Some source from © 2005, Joseph
