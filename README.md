@@ -105,68 +105,43 @@ This includes a list of classic papers of database research in different fields.
 
 ## Data Warehousing
 
-<p id="journals/sigmod/ChaudhuriD97"> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Surajit%20Chaudhuri">Surajit Chaudhuri</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Umeshwar%20Dayal">Umeshwar Dayal</a>. 
-<b><a href="/Papers/Data%20Warehousing/An%20overview%20of%20data%20warehousing%20and%20OLAP%20technology.pdf">An Overview of Data Warehousing and OLAP Technology.</a></b>. 
-SIGMOD Record, 26(1), 1997, 65-74. 
-</p>
+1. Umeshwar Dayal, SIGMOD Record, 26(1), 1997, 65-74.  
+[An Overview of Data Warehousing and OLAP Technology](/Papers/Data%20Warehousing/An%20overview%20of%20data%20warehousing%20and%20OLAP%20technology.pdf)
 
-<p id="conf/sigmod/ONeilQ97"> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Patrick%20E%20O'Neil">Patrick E. O'Neil</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Dallan%20Quass">Dallan Quass</a>. 
-<b><a href="/Papers/Data%20Warehousing/Improved%20query%20performance%20with%20variant%20indexes.pdf">Improved Query Performance with Variant Indexes.</a></b>. 
-Proc. SIGMOD Conference, 1997, 38-49. 
-</p>
+2. Patrick E. O'Neil, Dallan Quass, Proc. SIGMOD Conference, 1997, 38-49.  
+[Improved Query Performance with Variant Indexes](/Papers/Data%20Warehousing/Improved%20query%20performance%20with%20variant%20indexes.pdf)
 
-<p id="journals/datamine/GrayCBLRVPP97"> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Jim%20Gray">Jim Gray</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Surajit%20Chaudhuri">Surajit Chaudhuri</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Adam%20Bosworth">Adam Bosworth</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Andrew%20Layman">Andrew Layman</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Don%20Reichart">Don Reichart</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Murali%20Venkatrao">Murali Venkatrao</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Frank%20Pellow">Frank Pellow</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Hamid%20Pirahesh">Hamid Pirahesh</a>. 
-<b><a href="/Papers/Data%20Warehousing/Data%20cube_%20A%20relational%20aggregation%20operator%20generalizing%20group-by%20cross-tab%20and%20sub-totals.pdf">Data Cube: A Relational Aggregation Operator Generalizing Group-by, Cross-Tab, and Sub Totals.</a></b>. 
-Data Min. Knowl. Discov., 1(1), 1997, 29-53. 
-</p>
+3. Jim Gray, Surajit Chaudhuri, Adam Bosworth, Andrew Layman, Don Reichart, Murali Venkatrao, Hamid Pirahesh, Data Min. Knowl. Discov., 1(1), 1997, 29-53.  
+[Data Cube: A Relational Aggregation Operator Generalizing Group-by, Cross-Tab, and Sub Totals.](/Papers/Data%20Warehousing/Data%20cube_%20A%20relational%20aggregation%20operator%20generalizing%20group-by%20cross-tab%20and%20sub-totals.pdf)
 
-<p id="conf/sigmod/ZhaoDN97"> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Yihong%20Zhao">Yihong Zhao</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Prasad%20Deshpande">Prasad Deshpande</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Jeffrey%20F%20Naughton">Jeffrey F. Naughton</a>. 
-<b><a href="/Papers/Data%20Warehousing/An%20array-based%20algorithm%20for%20simultaneous%20multidimensional%20aggregates.pdf">An Array-Based Algorithm for Simultaneous Multidimensional Aggregates.</a></b>. 
-Proc. SIGMOD Conference, 1997, 159-170. 
-</p>
+4. Yihong Zhao, Prasad Deshpande, Jeffrey F. Naughton, Proc. SIGMOD Conference, 1997, 159-170.  
+[An Array-Based Algorithm for Simultaneous Multidimensional Aggregates](/Papers/Data%20Warehousing/An%20array-based%20algorithm%20for%20simultaneous%20multidimensional%20aggregates.pdf)
 
-<p id="conf/vldb/CeriW90"> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Stefano%20Ceri">Stefano Ceri</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Jennifer%20Widom">Jennifer Widom</a>. 
-<b><a href="/Papers/Data%20Warehousing/Deriving%20production%20rules%20for%20constraint%20maintenance.pdf">Deriving Production Rules for Constraint Maintainance.</a></b>. 
-Proc. VLDB, 1990, 566-577. 
-</p>
+5. Stefano Ceri, Jennifer Widom, Proc. VLDB, 1990, 566-577. [Deriving Production Rules for Constraint Maintainance](/Papers/Data%20Warehousing/Deriving%20production%20rules%20for%20constraint%20maintenance.pdf)
 
-<p id="journals/datamine/HellersteinAR00"> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Joseph%20M%20Hellerstein">Joseph M. Hellerstein</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Ron%20Avnur">Ron Avnur</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Vijayshankar%20Raman">Vijayshankar Raman</a>. 
-<b><a href="/Papers/Data%20Warehousing/Informix%20under%20control_%20Online%20query%20processing.pdf">Informix under CONTROL: Online Query Processing.</a></b>. 
-Data Min. Knowl. Discov., 4(4), 2000, 281-314. 
-</p>
+6. Joseph M. Hellerstein, Vijayshankar Raman, Data Min. Knowl. Discov., 4(4), 2000, 281-314.  
+[Informix under CONTROL: Online Query Processing](/Papers/Data%20Warehousing/Informix%20under%20control_%20Online%20query%20processing.pdf)
 
-<p id="conf/sigmod/KotidisR99"> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Yannis%20Kotidis">Yannis Kotidis</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Nick%20Roussopoulos">Nick Roussopoulos</a>. 
-<b><a href="/Papers/Data%20Warehousing/DynaMat_%20a%20dynamic%20view%20management%20system%20for%20data%20warehouses.pdf">DynaMat: A Dynamic View Management System for Data Warehouses.</a></b>. 
-Proc. SIGMOD Conference, 1999, 371-382. 
-</p>
+7. Yannis Kotidis, Nick Roussopoulos, Proc. SIGMOD Conference, 1999, 371-382.  
+[DynaMat: A Dynamic View Management System for Data Warehouses) (/Papers/Data%20Warehousing/DynaMat_%20a%20dynamic%20view%20management%20system%20for%20data%20warehouses.pdf)
 
 
+## Data Mining
 
-<h2><small>Data Mining</small></h2>
+1. Tian Zhang, Raghu Ramakrishnan, Miron Livny, Proc. SIGMOD Conference, 1996, 103-114.  
+[BIRCH: An Efficient Data Clustering Method for Very Large Databases](/Papers/Data%20Mining/BIRCH_%20an%20efficient%20data%20clustering%20method%20for%20very%20large%20databases.pdf)
 
-<p id="conf/sigmod/ZhangRL96"> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Tian%20Zhang">Tian Zhang</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Raghu%20Ramakrishnan">Raghu Ramakrishnan</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Miron%20Livny">Miron Livny</a>. 
-<b><a href="/Papers/Data%20Mining/BIRCH_%20an%20efficient%20data%20clustering%20method%20for%20very%20large%20databases.pdf">BIRCH: An Efficient Data Clustering Method for Very Large Databases.</a></b>. 
-Proc. SIGMOD Conference, 1996, 103-114. 
-</p>
+2. John C. Shafer, Rakesh Agrawal, Manish Mehta, Proc. VLDB, 1996, 544-555.  
+[SPRINT: A Scalable Parallel Classifier for Data Mining](/Papers/Data%20Mining/SPRINT_%20A%20scalable%20parallel%20classi%20er%20for%20data%20mining.pdf)
 
-<p id="conf/vldb/ShaferAM96"> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=John%20C%20Shafer">John C. Shafer</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Rakesh%20Agrawal">Rakesh Agrawal</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Manish%20Mehta">Manish Mehta</a>. 
-<b><a href="/Papers/Data%20Mining/SPRINT_%20A%20scalable%20parallel%20classi%20er%20for%20data%20mining.pdf">SPRINT: A Scalable Parallel Classifier for Data Mining</a></b>. 
-Proc. VLDB, 1996, 544-555. 
-</p>
+3. Rakesh Agrawal, Ramakrishnan Srikant, Proc. VLDB, 1994, 487-499.  
+[Fast Algorithms for Mining Association Rules in Large Databases.](/Papers/Data%20Mining/Fast%20algorithms%20for%20mining%20association%20rules.pdf)
 
-<p id="conf/vldb/AgrawalS94"> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Rakesh%20Agrawal">Rakesh Agrawal</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Ramakrishnan%20Srikant">Ramakrishnan Srikant</a>. 
-<b><a href="/Papers/Data%20Mining/Fast%20algorithms%20for%20mining%20association%20rules.pdf">Fast Algorithms for Mining Association Rules in Large Databases.</a></b>. 
-Proc. VLDB, 1994, 487-499. 
-</p>
-
-<p id="conf/icde/ChaudhuriNS02"> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Surajit%20Chaudhuri">Surajit Chaudhuri</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Vivek%20R%20Narasayya">Vivek R. Narasayya</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Sunita%20Sarawagi">Sunita Sarawagi</a>. 
-<b><a href="/Papers/Data%20Mining/Efficient%20evaluation%20of%20queries%20with%20mining%20predicates.pdf">Efficient Evaluation of Queries with Mining Predicates.</a></b>. 
-Proc. ICDE, 2002, 529-. 
-</p>
+4. Vivek R. Narasayya, Sunita Sarawagi, Surajit Chaudhuri, Proc. ICDE, 2002, 529-.  
+[Efficient Evaluation of Queries with Mining Predicates](/Papers/Data%20Mining/Efficient%20evaluation%20of%20queries%20with%20mining%20predicates.pdf)
 
 
-
-<h2><small>Web Services and Databases</small></h2>
+## Web Services and Databases
 
 <p id=""> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Eric%20A%20Brewer">Eric A. Brewer</a>. 
 <p id=""> <b><a href="/Papers/Web%20Services%20and%20Databases/Combining_Systems_and_Databases_A_Search_Engine_Re.pdf">Combining Systems and Databases: A Search Engine Retrospective</a></b>. 
