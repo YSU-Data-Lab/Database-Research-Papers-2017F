@@ -6,26 +6,35 @@ This includes a list of classic papers of database research in different fields.
 
 ## Data Models and DBMS Architecture
 
-1. Michael Stonebraker, Joseph M. Hellerstein, [What Goes Around Comes Around](/Papers/Data%20Models%20and%20DBMS%20Architecture/What%20Goes%20Around%20Comes%20Around.pdf)
-2. Joseph M. Hellerstein, Michael Stonebraker, [Anatomy of a Database System](/Papers/Data%20Models%20and%20DBMS%20Architecture/Anatomy%20of%20a%20Database%20system.pdf)
+1. Michael Stonebraker, Joseph M. Hellerstein. 
+[What Goes Around Comes Around](/Papers/Data%20Models%20and%20DBMS%20Architecture/What%20Goes%20Around%20Comes%20Around.pdf)
+2. Joseph M. Hellerstein, Michael Stonebraker. 
+[Anatomy of a Database System](/Papers/Data%20Models%20and%20DBMS%20Architecture/Anatomy%20of%20a%20Database%20system.pdf)
 
 
 
 ## Query Processing
 
-1. Patricia G. Selinger, Morton M. Astrahan, Donald D. Chamberlin, Donald D. Chamberlin, Raymond A. Lorie, Thomas G. Price, Proc. SIGMOD Conference, 1979, 23-34.[Access Path Selection in Relation Database Management System](/Papers/Query%20Processing/Access%20Path%20Selection%20in%20a%20Relational%20Database%20Management%20System.pdf)
+1. Patricia G. Selinger, Morton M. Astrahan, Donald D. Chamberlin, Donald D. Chamberlin, Raymond A. Lorie, Thomas G. Price, Proc. SIGMOD Conference, 1979, 23-34.
+[Access Path Selection in Relation Database Management System](/Papers/Query%20Processing/Access%20Path%20Selection%20in%20a%20Relational%20Database%20Management%20System.pdf)
 
-2. Leonard D. Shapiro,11(3), 1986, 239-264.[Join Processing in Datebase Systems with Large Main Memories](/Papers/Query%20Processing/Join%20Processing%20in%20Database%20Systems%20with%20Large%20Main%20Memories.pdf)
+2. Leonard D. Shapiro,11(3), 1986, 239-264.
+[Join Processing in Datebase Systems with Large Main Memories](/Papers/Query%20Processing/Join%20Processing%20in%20Database%20Systems%20with%20Large%20Main%20Memories.pdf)
 
-3. David J. DeWitt, Jim Gray, Commun. ACM, 35(6), 1992, 85-98.[Parallel Database Systems: The Future of High Performance Database Systems.](/Papers/Query%20Processing/Parallel%20Database%20systems_The%20future%20of%20high%20performance%20database%20systems.pdf)
+3. David J. DeWitt, Jim Gray, Commun. ACM, 35(6), 1992, 85-98.
+[Parallel Database Systems: The Future of High Performance Database Systems.](/Papers/Query%20Processing/Parallel%20Database%20systems_The%20future%20of%20high%20performance%20database%20systems.pdf)
 
-4. Goetz Graefe, Proc. SIGMOD Conference, 1990, 102-111. [Encapsulation of Parallelism in the Volcano Query Processing System](/Papers/Query%20Processing/Encapsulation%20of%20Parallelism%20in%20the%20Volcano%20Query%20Processing%20Syst.pdf)
+4. Goetz Graefe, Proc. SIGMOD Conference, 1990, 102-111. 
+[Encapsulation of Parallelism in the Volcano Query Processing System](/Papers/Query%20Processing/Encapsulation%20of%20Parallelism%20in%20the%20Volcano%20Query%20Processing%20Syst.pdf)
 
-5. Chris Nyberg, Tom Barclay, Zarka Cvetanovic,Jim Gray, David B. Lomet, VLDB J., 4(4), 1995, 603-627. [AlphaSort: A Cache-Sensitive Parallel External Sort](/Papers/Query%20Processing/AlphaSort_A%20Cache%20Sensitive%20Parallel%20External%20Sort.pdf)
+5. Chris Nyberg, Tom Barclay, Zarka Cvetanovic,Jim Gray, David B. Lomet, VLDB J., 4(4), 1995, 603-627. 
+[AlphaSort: A Cache-Sensitive Parallel External Sort](/Papers/Query%20Processing/AlphaSort_A%20Cache%20Sensitive%20Parallel%20External%20Sort.pdf)
 
-6. Lothar F. Mackert, Guy M. Lohman, Proc. VLDB, 1986, 149-159. [R* Optimizer Validation and Performance Evaluation for Distributed Queries](/Papers/Query%20Processing/R%20Optimizer%20Validation%20and%20Performance%20Evaluation%20for%20Local%20Queries.pdf)
+6. Lothar F. Mackert, Guy M. Lohman, Proc. VLDB, 1986, 149-159. 
+[R* Optimizer Validation and Performance Evaluation for Distributed Queries](/Papers/Query%20Processing/R%20Optimizer%20Validation%20and%20Performance%20Evaluation%20for%20Local%20Queries.pdf)
 
-7. Michael Stonebraker, Paul M. Aoki, Witold Litwin, Carl Staelin, Adam Sah, Andrew Yu, VLDB J., 5(1), 1996, 48-63. [Mariposa: A Wide-Area Distributed Database System](/Papers/Query%20Processing/Mariposa_A%20wide-Area%20distributed%20database%20system.pdf)
+7. Michael Stonebraker, Paul M. Aoki, Witold Litwin, Carl Staelin, Adam Sah, Andrew Yu, VLDB J., 5(1), 1996, 48-63. 
+[Mariposa: A Wide-Area Distributed Database System](/Papers/Query%20Processing/Mariposa_A%20wide-Area%20distributed%20database%20system.pdf)
 
 
 
@@ -34,11 +43,14 @@ This includes a list of classic papers of database research in different fields.
 1. Norbert Beckmann, Hans-Peter Kriegel,Ralf Schneider,Bernhard Seeger, Proc. SIGMOD Conference, 1990, 322-331.
 [The R*-Tree: An Efficient and Robust Access Method for Points and Rectangles.](/Papers/Data%20Storage%20and%20Access%20Methods/The%20R_tree%20an%20efficient%20and%20robust%20access%20method%20for%20points%20and%20rectangles.pdf)
 
-2. Michael Stonebraker, Commun. ACM, 24(7), 1981, 412-418.[Operating System Support for Database Management.](/Papers/Data%20Storage%20and%20Access%20Methods/Operating%20system%20support%20for%20database%20management.pdf)
+2. Michael Stonebraker, Commun. ACM, 24(7), 1981, 412-418.
+[Operating System Support for Database Management.](/Papers/Data%20Storage%20and%20Access%20Methods/Operating%20system%20support%20for%20database%20management.pdf)
 
-3. Jim Gray, Goetz Graefe, SIGMOD Record, 26(4), 1997, 63-68. [The Five-Minute Rule Ten Years Later, and Other Computer Storage Rules of Thumb.](/Papers/Data%20Storage%20and%20Access%20Methods/The%20five-minute%20rule%20ten%20years%20later%2C%20and%20other%20computer%20storage%20rules%20of%20thumb.pdf)
+3. Jim Gray, Goetz Graefe, SIGMOD Record, 26(4), 1997, 63-68. 
+[The Five-Minute Rule Ten Years Later, and Other Computer Storage Rules of Thumb.](/Papers/Data%20Storage%20and%20Access%20Methods/The%20five-minute%20rule%20ten%20years%20later%2C%20and%20other%20computer%20storage%20rules%20of%20thumb.pdf)
 
-4. Randy H. Katz, David A. Patterson, Garth A. Gibson, Proc. SIGMOD Conference, 1988, 109-116. [A Case for Redundant Arrays of Inexpensive Disks (RAID)](/Papers/Data%20Storage%20and%20Access%20Methods/A%20Case%20for%20Redundant%20Arrays%20of%20Inexpensive%20Disks%20(RAID)%20.pdf)
+4. Randy H. Katz, David A. Patterson, Garth A. Gibson, Proc. SIGMOD Conference, 1988, 109-116. 
+[A Case for Redundant Arrays of Inexpensive Disks (RAID)](/Papers/Data%20Storage%20and%20Access%20Methods/A%20Case%20for%20Redundant%20Arrays%20of%20Inexpensive%20Disks%20(RAID)%20.pdf)
 
 
 ## Transaction Management
