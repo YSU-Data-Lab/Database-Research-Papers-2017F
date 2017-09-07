@@ -55,82 +55,55 @@ This includes a list of classic papers of database research in different fields.
 
 ## Transaction Management
 
-<p id=""> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Jim%20Gray">Jim Gray</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Raymond%20A%20Lorie">Raymond A. Lorie</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Gianfranco%20R%20Putzolu">Gianfranco R. Putzolu</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Irving%20L%20Traiger">Irving L. Traiger</a>. 
-<b><a href="/Papers/Transaction%20Management/Granularity%20of%20locks%20and%20degrees%20of%20consistency%20in%20a%20shared%20data%20base.pdf">Granularity of Locks and Degrees of Consistency in a Shared Data Base.</a></b>. 
-IBM, September, 1975. 
-</p>
+1. Jim Gray, Raymond A. Lorie, Gianfranco R. Putzolu, Irving L. Traiger, IBM, September, 1975.  
+[Granularity of Locks and Degrees of Consistency in a Shared Data Base.](/Papers/Transaction%20Management/Granularity%20of%20locks%20and%20degrees%20of%20consistency%20in%20a%20shared%20data%20base.pdf)
 
-<p id="conf/vldb/KungR79"> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=H%20T%20Kung">H. T. Kung</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=John%20T%20Robinson">John T. Robinson</a>. 
-<b><a href="/Papers/Transaction%20Management/On%20optimistic%20methods%20for%20concurrency%20control.pdf">On Optimistic Methods for Concurrency Control.</a></b>. 
-Proc. VLDB, 1979, 351. 
-</p>
+2. H. T. Kung, John T. Robinson, Proc. VLDB, 1979, 351.  
+[On Optimistic Methods for Concurrency Control.](/Papers/Transaction%20Management/On%20optimistic%20methods%20for%20concurrency%20control.pdf)
 
-<p id="journals/tods/AgrawalCL87"> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Rakesh%20Agrawal">Rakesh Agrawal</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Michael%20J%20Carey">Michael J. Carey</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Miron%20Livny">Miron Livny</a>. 
-<b><a href="/Papers/Transaction%20Management/Concurrency%20control%20performance%20modeling_%20alternatives%20and%20implications.pdf">Concurrency Control Performance Modeling: Alternatives and Implications.</a></b>. 
-ACM Trans. Database Syst., 12(4), 1987, 609-654. 
-</p>
+3. Michael J. Carey, Miron Livny, ACM Trans. Database Syst., 12(4), 1987, 609-654.  
+[Concurrency Control Performance Modeling: Alternatives and Implications](/Papers/Transaction%20Management/Concurrency%20control%20performance%20modeling_%20alternatives%20and%20implications.pdf)
 
-<p id="journals/tods/LehmanY81"> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Philip%20L%20Lehman">Philip L. Lehman</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=S%20Bing%20Yao">S. Bing Yao</a>. 
-<b><a href="/Papers/Transaction%20Management/Efficient%20locking%20for%20concurrent%20operations%20on%20B-trees.pdf">Efficient Locking for Concurrent Operations on  B-Trees.</a></b>. 
-ACM Trans. Database Syst., 6(4), 1981, 650-670. 
-</p>
+4. Philip L. Lehman, Bing Yao, ACM Trans. Database Syst., 6(4), 1981, 650-670.  
+[Efficient Locking for Concurrent Operations on  B-Trees.](/Papers/Transaction%20Management/Efficient%20locking%20for%20concurrent%20operations%20on%20B-trees.pdf)
 
-<p id="journals/tods/MohanHLPS92"> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=C%20Mohan">C. Mohan</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Donald%20J%20Haderle">Donald J. Haderle</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Bruce%20G%20Lindsay">Bruce G. Lindsay</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Hamid%20Pirahesh">Hamid Pirahesh</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Peter%20M%20Schwarz">Peter M. Schwarz</a>. 
-<b><a href="/Papers/Transaction%20Management/ARIES_%20a%20transaction%20recovery%20method%20supporting%20fine_granularity%20locking%20and%20partial%20rollbacks%20using%20write_ahead%20logging.pdf">ARIES: A Transaction Recovery Method Supporting Fine-Granularity Locking and Partial Rollbacks Using Write-Ahead Logging.</a></b>. 
-ACM Trans. Database Syst., 17(1), 1992, 94-162. 
-</p>
+5. C. Mohan, Donald J. Haderle, Bruce G. Lindsay, Hamid Pirahesh, Peter M. Schwarz, ACM Trans. Database Syst., 17(1), 1992, 94-162.  
+[ARIES: A Transaction Recovery Method Supporting Fine-Granularity Locking and Partial Rollbacks Using Write-Ahead Logging](/Papers/Transaction%20Management/ARIES_%20a%20transaction%20recovery%20method%20supporting%20fine_granularity%20locking%20and%20partial%20rollbacks%20using%20write_ahead%20logging.pdf)
 
-<p id="journals/tods/MohanLO86"> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=C%20Mohan">C. Mohan</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Bruce%20G%20Lindsay">Bruce G. Lindsay</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Ron%20Obermarck">Ron Obermarck</a>. 
-<b><a href="/Papers/Transaction%20Management/Transaction%20management%20in%20the%20R_%20distributed%20database%20management%20system.pdf">Transaction Management in the  R* Distributed Database Management System.</a></b>. 
-ACM Trans. Database Syst., 11(4), 1986, 378-396. 
-</p>
+6. C. Mohan, Bruce G. Lindsay, Ron Obermarck, ACM Trans. Database Syst., 11(4), 1986, 378-396.  
+[Transaction Management in the  R* Distributed Database Management System](/Papers/Transaction%20Management/Transaction%20management%20in%20the%20R_%20distributed%20database%20management%20system.pdf)
 
-<p id="conf/sigmod/GrayHOS96"> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Jim%20Gray">Jim Gray</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Pat%20Helland">Pat Helland</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Patrick%20E%20O'Neil">Patrick E. O'Neil</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Dennis%20Shasha">Dennis Shasha</a>. 
-<b><a href="/Papers/Transaction%20Management/The%20dangers%20of%20replication%20and%20a%20solution.pdf">The Dangers of Replication and a Solution.</a></b>. 
-Proc. SIGMOD Conference, 1996, 173-182. 
-</p>
+
+7. Jim Gray, Pat Helland, Patrick E. O'Neil, Dennis Shasha, Proc. SIGMOD Conference, 1996, 173-182.  
+[The Dangers of Replication and a Solution](/Papers/Transaction%20Management/The%20dangers%20of%20replication%20and%20a%20solution.pdf)
 
 
 
-<h2><small>Extensible Systems</small></h2>
+## Extensible Systems
 
-<p id="conf/icde/Stonebraker86"> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Michael%20Stonebraker">Michael Stonebraker</a>. 
-<b><a href="/Papers/Extensible%20Systems/Inclusion-of-new-types-in-relational-database-systems.pdf">Inclusion of New Types in Relational Data Base Systems.</a></b>. 
-Proc. ICDE, 1986, 262-269. 
-</p>
+1. Michael Stonebraker, Proc. ICDE, 1986, 262-269.  
+[Inclusion of New Types in Relational Data Base Systems](/Papers/Extensible%20Systems/Inclusion-of-new-types-in-relational-database-systems.pdf)
 
-<p id="conf/vldb/HellersteinNP95"> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Joseph%20M%20Hellerstein">Joseph M. Hellerstein</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Jeffrey%20F%20Naughton">Jeffrey F. Naughton</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Avi%20Pfeffer">Avi Pfeffer</a>. 
-<b><a href="/Papers/Extensible%20Systems/Generalized%20search%20trees%20for%20database%20systems.pdf">Generalized Search Trees for Database Systems.</a></b>. 
-Proc. VLDB, 1995, 562-573. 
-</p>
+2. Joseph M. Hellerstein, Jeffrey F. Naughton, Avi Pfeffer, Proc. VLDB, 1995, 562-573.  
+[Generalized Search Trees for Database Systems](/Papers/Extensible%20Systems/Generalized%20search%20trees%20for%20database%20systems.pdf)
 
-<p id="conf/sigmod/Lohman88"> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Guy%20M%20Lohman">Guy M. Lohman</a>. 
-<b><a href="/Papers/Extensible%20Systems/Grammar-like%20functional%20rules%20for%20representing%20query%20optimization%20alternatives.pdf">Grammar-like Functional Rules for Representing Query Optimization Alternatives.</a></b>. 
-Proc. SIGMOD Conference, 1988, 18-27. 
-</p>
+3. Guy M. Lohman, Proc. SIGMOD Conference, 1988, 18-27.  
+[Grammar-like Functional Rules for Representing Query Optimization Alternatives](/Papers/Extensible%20Systems/Grammar-like%20functional%20rules%20for%20representing%20query%20optimization%20alternatives.pdf)
 
 
+## Database Evolution
 
-<h2><small>Database Evolution</small></h2>
+1. Surajit Chaudhuri, Vivek R. Narasayya, Proc. SIGMOD Conference, 1998, 367-378.  
+[AutoAdmin 'What-if' Index Analysis Utility](/Papers/Database%20Evolution/AutoAdmin%20_what_if_%20index%20analysis%20utility.pdf)
 
-<p id="conf/sigmod/ChaudhuriN98"> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Surajit%20Chaudhuri">Surajit Chaudhuri</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Vivek%20R%20Narasayya">Vivek R. Narasayya</a>. 
-<b><a href="/Papers/Database%20Evolution/AutoAdmin%20_what_if_%20index%20analysis%20utility.pdf">AutoAdmin 'What-if' Index Analysis Utility.</a></b>. 
-Proc. SIGMOD Conference, 1998, 367-378. 
-</p>
+2. Philip A. Bernstein, Proc. CIDR, 2003.  
+[Applying Model Management to Classical Meta Data Problems](/Papers/Database%20Evolution/Applying%20Model%20Management%20to%20Classical%20Meta%20Data%20Problems.pdf)
 
-<p id="conf/cidr/Bernstein03"> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Philip%20A%20Bernstein">Philip A. Bernstein</a>. 
-<b><a href="/Papers/Database%20Evolution/Applying%20Model%20Management%20to%20Classical%20Meta%20Data%20Problems.pdf">Applying Model Management to Classical Meta Data Problems.</a></b>. 
-Proc. CIDR, 2003. 
-</p>
-
-<p id="conf/sigmod/MohanN92"> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=C%20Mohan">C. Mohan</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Inderpal%20Narang">Inderpal Narang</a>. 
-<b><a href="/Papers/Database%20Evolution/Algorithms%20for%20creating%20indexes%20for%20very%20large%20tables%20without%20quiescing%20updates.pdf">Algorithms for Creating Indexes for Very Large Tables Without Quiescing Updates.</a></b>. 
-Proc. SIGMOD Conference, 1992, 361-370. 
-</p>
+3. C. Mohan, Inderpal Narang, Proc. SIGMOD Conference, 1992, 361-370.  
+[Algorithms for Creating Indexes for Very Large Tables Without Quiescing Updates](/Papers/Database%20Evolution/Algorithms%20for%20creating%20indexes%20for%20very%20large%20tables%20without%20quiescing%20updates.pdf)
 
 
-
-<h2><small>Data Warehousing</small></h2>
+## Data Warehousing
 
 <p id="journals/sigmod/ChaudhuriD97"> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Surajit%20Chaudhuri">Surajit Chaudhuri</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Umeshwar%20Dayal">Umeshwar Dayal</a>. 
 <b><a href="/Papers/Data%20Warehousing/An%20overview%20of%20data%20warehousing%20and%20OLAP%20technology.pdf">An Overview of Data Warehousing and OLAP Technology.</a></b>. 
