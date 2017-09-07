@@ -31,29 +31,17 @@ This includes a list of classic papers of database research in different fields.
 
 ## Data Storage and Access Methods
 
-<p id="conf/sigmod/BeckmannKSS90"> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Norbert%20Beckmann">Norbert Beckmann</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=HansPeter%20Kriegel">Hans-Peter Kriegel</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Ralf%20Schneider">Ralf Schneider</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Bernhard%20Seeger">Bernhard Seeger</a>. 
-<b><a href="/Papers/Data%20Storage%20and%20Access%20Methods/The%20R_tree%20an%20efficient%20and%20robust%20access%20method%20for%20points%20and%20rectangles.pdf">The R*-Tree: An Efficient and Robust Access Method for Points and Rectangles.</a></b>. 
-Proc. SIGMOD Conference, 1990, 322-331.
-</p>
+1. Norbert Beckmann, Hans-Peter Kriegel,Ralf Schneider,Bernhard Seeger, Proc. SIGMOD Conference, 1990, 322-331.
+[The R*-Tree: An Efficient and Robust Access Method for Points and Rectangles.](/Papers/Data%20Storage%20and%20Access%20Methods/The%20R_tree%20an%20efficient%20and%20robust%20access%20method%20for%20points%20and%20rectangles.pdf)
 
-<p id="journals/cacm/Stonebraker81"> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Michael%20Stonebraker">Michael Stonebraker</a>. 
-<b><a href="/Papers/Data%20Storage%20and%20Access%20Methods/Operating%20system%20support%20for%20database%20management.pdf">Operating System Support for Database Management.</a></b>. 
-Commun. ACM, 24(7), 1981, 412-418. 
-</p>
+2. Michael Stonebraker, Commun. ACM, 24(7), 1981, 412-418.[Operating System Support for Database Management.](/Papers/Data%20Storage%20and%20Access%20Methods/Operating%20system%20support%20for%20database%20management.pdf)
 
-<p id="journals/sigmod/GrayG97"> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Jim%20Gray">Jim Gray</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Goetz%20Graefe">Goetz Graefe</a>. 
-<b><a href="/Papers/Data%20Storage%20and%20Access%20Methods/The%20five-minute%20rule%20ten%20years%20later%2C%20and%20other%20computer%20storage%20rules%20of%20thumb.pdf">The Five-Minute Rule Ten Years Later, and Other Computer Storage Rules of Thumb.</a></b>. 
-SIGMOD Record, 26(4), 1997, 63-68. 
-</p>
+3. Jim Gray, Goetz Graefe, SIGMOD Record, 26(4), 1997, 63-68. [The Five-Minute Rule Ten Years Later, and Other Computer Storage Rules of Thumb.](/Papers/Data%20Storage%20and%20Access%20Methods/The%20five-minute%20rule%20ten%20years%20later%2C%20and%20other%20computer%20storage%20rules%20of%20thumb.pdf)
 
-<p id="conf/sigmod/PattersonGK88"> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=David%20A%20Patterson">David A. Patterson</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Garth%20A%20Gibson">Garth A. Gibson</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Randy%20H%20Katz">Randy H. Katz</a>. 
-<b><a href="/Papers/Data%20Storage%20and%20Access%20Methods/A%20Case%20for%20Redundant%20Arrays%20of%20Inexpensive%20Disks%20(RAID)%20.pdf">A Case for Redundant Arrays of Inexpensive Disks (RAID).</a></b>. 
-Proc. SIGMOD Conference, 1988, 109-116. 
-</p>
+4. Randy H. Katz, David A. Patterson, Garth A. Gibson, Proc. SIGMOD Conference, 1988, 109-116. [A Case for Redundant Arrays of Inexpensive Disks (RAID)](/Papers/Data%20Storage%20and%20Access%20Methods/A%20Case%20for%20Redundant%20Arrays%20of%20Inexpensive%20Disks%20(RAID)%20.pdf)
 
 
-
-<h2><small>Transaction Management</small></h2>
+## Transaction Management
 
 <p id=""> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Jim%20Gray">Jim Gray</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Raymond%20A%20Lorie">Raymond A. Lorie</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Gianfranco%20R%20Putzolu">Gianfranco R. Putzolu</a> <a href="http://www.informatik.uni-trier.de/ley/dbbin/dblpquery.cgi?author=Irving%20L%20Traiger">Irving L. Traiger</a>. 
 <b><a href="/Papers/Transaction%20Management/Granularity%20of%20locks%20and%20degrees%20of%20consistency%20in%20a%20shared%20data%20base.pdf">Granularity of Locks and Degrees of Consistency in a Shared Data Base.</a></b>. 
