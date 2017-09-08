@@ -123,7 +123,7 @@ This includes a list of classic papers of database research in different fields.
 [Informix under CONTROL: Online Query Processing](/Papers/Data%20Warehousing/Informix%20under%20control_%20Online%20query%20processing.pdf)
 
 7. Yannis Kotidis, Nick Roussopoulos, Proc. SIGMOD Conference, 1999, 371-382.  
-[DynaMat: A Dynamic View Management System for Data Warehouses] (/Papers/Data%20Warehousing/DynaMat_%20a%20dynamic%20view%20management%20system%20for%20data%20warehouses.pdf)
+[DynaMat: A Dynamic View Management System for Data Warehouses](/Papers/Data%20Warehousing/DynaMat_%20a%20dynamic%20view%20management%20system%20for%20data%20warehouses.pdf)
 
 
 ## Data Mining
