@@ -124,7 +124,7 @@ Surajit Chaudhuri, Vivek R. Narasayya, Proc. SIGMOD Conference, 1998, 367-378.
 Philip A. Bernstein, Proc. CIDR, 2003.  
 
 
-3. [Algorithms for Creating Indexes for Very Large Tables Without Quiescing Updates](/Papers/Database%20Evolution/Algorithms%20for%20creating%20indexes%20for%20very%20large%20tables%20without%20quiescing%20updates.pdf)  C. Mohan, Inderpal Narang, Proc. SIGMOD Conference, 1992, 361-370.  
+3. [Algorithms for Creating Indexes for Very Large Tables Without Quiescing Updates](/Papers/Database%20Evolution/Algorithms%20for%20creating%20indexes%20for%20very%20large%20tables%20without%20quiescing%20updates.pdf)    C. Mohan, Inderpal Narang, Proc. SIGMOD Conference, 1992, 361-370.  
 
 
 
@@ -222,7 +222,7 @@ Praveen Seshadri, Miron Livny, Raghu Ramakrishnan, Proc. VLDB, 1996, 99-110.
 Ron Avnur, Joseph M. Hellerstein, SIGMOD Conference, 2000, 261-272.  
 
 
-4. [Monitoring Streams - A New Class of Data Management Applications](/Papers/Stream%20Bases%20Data%20Management/Monitoring%20Streams%20-%20A%20New%20Class%20of%20Data%20Management%20Applications.pdf) 
+4. [Monitoring Streams - A New Class of Data Management Applications](/Papers/Stream%20Bases%20Data%20Management/Monitoring%20Streams%20-%20A%20New%20Class%20of%20Data%20Management%20Applications.pdf)  
 Donald Carney, Ugur Çetintemel, Mitch Cherniack, Christian Convey, Sangdon Lee, Greg Seidman, Michael Stonebraker, Nesime Tatbul, Stanley B. Zdonik, Proc. VLDB, 2002, 215-226.  
 
 
