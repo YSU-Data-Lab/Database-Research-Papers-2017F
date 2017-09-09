@@ -6,35 +6,44 @@ This includes a list of classic papers of database research in different fields.
 
 ## Data Models and DBMS Architecture
 
-1. Michael Stonebraker, Joseph M. Hellerstein.  
-[What Goes Around Comes Around](/Papers/Data%20Models%20and%20DBMS%20Architecture/What%20Goes%20Around%20Comes%20Around.pdf)
-2. Joseph M. Hellerstein, Michael Stonebraker.  
-[Anatomy of a Database System](/Papers/Data%20Models%20and%20DBMS%20Architecture/Anatomy%20of%20a%20Database%20system.pdf)
+1. [What Goes Around Comes Around](/Papers/Data%20Models%20and%20DBMS%20Architecture/What%20Goes%20Around%20Comes%20Around.pdf)  
+Michael Stonebraker, Joseph M. Hellerstein.  
+
+2. [Anatomy of a Database System](/Papers/Data%20Models%20and%20DBMS%20Architecture/Anatomy%20of%20a%20Database%20system.pdf)  
+Joseph M. Hellerstein, Michael Stonebraker.  
+
 
 
 
 ## Query Processing
 
-1. Patricia G. Selinger, Morton M. Astrahan, Donald D. Chamberlin, Donald D. Chamberlin, Raymond A. Lorie, Thomas G. Price, Proc. SIGMOD Conference, 1979, 23-34.  
-[Access Path Selection in Relation Database Management System](/Papers/Query%20Processing/Access%20Path%20Selection%20in%20a%20Relational%20Database%20Management%20System.pdf)
+1. [Access Path Selection in Relation Database Management System](/Papers/Query%20Processing/Access%20Path%20Selection%20in%20a%20Relational%20Database%20Management%20System.pdf)  
+Patricia G. Selinger, Morton M. Astrahan, Donald D. Chamberlin, Donald D. Chamberlin, Raymond A. Lorie, Thomas G. Price, Proc. SIGMOD Conference, 1979, 23-34.  
 
-2. Leonard D. Shapiro,11(3), 1986, 239-264.  
-[Join Processing in Datebase Systems with Large Main Memories](/Papers/Query%20Processing/Join%20Processing%20in%20Database%20Systems%20with%20Large%20Main%20Memories.pdf)
 
-3. David J. DeWitt, Jim Gray, Commun. ACM, 35(6), 1992, 85-98.  
-[Parallel Database Systems: The Future of High Performance Database Systems.](/Papers/Query%20Processing/Parallel%20Database%20systems_The%20future%20of%20high%20performance%20database%20systems.pdf)
+2. [Join Processing in Datebase Systems with Large Main Memories](/Papers/Query%20Processing/Join%20Processing%20in%20Database%20Systems%20with%20Large%20Main%20Memories.pdf)  
+Leonard D. Shapiro,11(3), 1986, 239-264.  
 
-4. Goetz Graefe, Proc. SIGMOD Conference, 1990, 102-111.  
-[Encapsulation of Parallelism in the Volcano Query Processing System](/Papers/Query%20Processing/Encapsulation%20of%20Parallelism%20in%20the%20Volcano%20Query%20Processing%20Syst.pdf)
 
-5. Chris Nyberg, Tom Barclay, Zarka Cvetanovic,Jim Gray, David B. Lomet, VLDB J., 4(4), 1995, 603-627.  
-[AlphaSort: A Cache-Sensitive Parallel External Sort](/Papers/Query%20Processing/AlphaSort_A%20Cache%20Sensitive%20Parallel%20External%20Sort.pdf)
+3. [Parallel Database Systems: The Future of High Performance Database Systems.](/Papers/Query%20Processing/Parallel%20Database%20systems_The%20future%20of%20high%20performance%20database%20systems.pdf)  
+David J. DeWitt, Jim Gray, Commun. ACM, 35(6), 1992, 85-98.  
 
-6. Lothar F. Mackert, Guy M. Lohman, Proc. VLDB, 1986, 149-159.  
-[R* Optimizer Validation and Performance Evaluation for Distributed Queries](/Papers/Query%20Processing/R%20Optimizer%20Validation%20and%20Performance%20Evaluation%20for%20Local%20Queries.pdf)
 
-7. Michael Stonebraker, Paul M. Aoki, Witold Litwin, Carl Staelin, Adam Sah, Andrew Yu, VLDB J., 5(1), 1996, 48-63.  
-[Mariposa: A Wide-Area Distributed Database System](/Papers/Query%20Processing/Mariposa_A%20wide-Area%20distributed%20database%20system.pdf)
+4. [Encapsulation of Parallelism in the Volcano Query Processing System](/Papers/Query%20Processing/Encapsulation%20of%20Parallelism%20in%20the%20Volcano%20Query%20Processing%20Syst.pdf)  
+Goetz Graefe, Proc. SIGMOD Conference, 1990, 102-111.  
+
+
+5. [AlphaSort: A Cache-Sensitive Parallel External Sort](/Papers/Query%20Processing/AlphaSort_A%20Cache%20Sensitive%20Parallel%20External%20Sort.pdf)  
+Chris Nyberg, Tom Barclay, Zarka Cvetanovic,Jim Gray, David B. Lomet, VLDB J., 4(4), 1995, 603-627.  
+
+
+6. [R* Optimizer Validation and Performance Evaluation for Distributed Queries](/Papers/Query%20Processing/R%20Optimizer%20Validation%20and%20Performance%20Evaluation%20for%20Local%20Queries.pdf)  
+Lothar F. Mackert, Guy M. Lohman, Proc. VLDB, 1986, 149-159.  
+
+
+7. [Mariposa: A Wide-Area Distributed Database System](/Papers/Query%20Processing/Mariposa_A%20wide-Area%20distributed%20database%20system.pdf)  
+Michael Stonebraker, Paul M. Aoki, Witold Litwin, Carl Staelin, Adam Sah, Andrew Yu, VLDB J., 5(1), 1996, 48-63.  
+
 
 
 
